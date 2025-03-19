@@ -3,31 +3,33 @@ Business Analytics Benchmark for GenAI Agents
 
 ## Contribution Data Format
 
-We aim to structure each sample (question-level) in our BA-bench using the following format:
+We aim to structure each sample (question-level) in our BA-bench using the following json format:
 
 ```python
 {
-    'unique_id': str,  # Unique identifier for each sample
+    'id': str,  # Unique identifier for each sample
     'question': str,  # A business-related question related to the data
     'data_file': str,  # The data file the question relates to
     'doc_file': str,  # The document file the question relates to
-    'ground_truth': str,  # The answer to the question
+    'answer': str,  # The answer to the question
     'data_domain': str,  # The domain the data belongs to (e.g., finance, education)
     'analysis_type': str,  # The type of question, optional: ["Structure problems", "Unstructured problems", "Chart problems"]
-    'origin_from': list[str],  # Source of the question, e.g., ['benchmark name', 'question column']
-    'additional_information': dict[str, str],  # Additional information such as code, statistical results, etc.
+    'origin_from': list[str],  # Source of the question, e.g., ['benchmark name', 'question id']
+    'additional_information': list[dict[str, str]],  # Additional information such as code, statistical results, intermediate steps (e.g., StatQA's analysis methods) etc.
 }
 ```
 
 ### Analysis Type Definitions:
 - **Structure problems**: The answer is structured (e.g., numerical, categorical).  
-  *Example*: A sample from *StatQA* where the `ground_truth` is a column and analysis method. If the agent's answer matches them, it is considered correct.
-  
+  *Example*: A sample from *StatQA* where the `answer` is a column and analysis method. If the agent's answer matches them, it is considered correct.
+  [comment]: Shall we not include such questions if the answer is not an actual answer? I'd like all the questions in the benchmark can at least have an answer.
+
+
 - **Unstructured problems**: The answer is unstructured (e.g., text-based).  
-  *Example*: A sample from *InsightBench* where the `ground_truth` is an insight. Semantic similarity must be considered.
+  *Example*: A sample from *InsightBench* where the `answer` is an insight. Semantic similarity must be considered.
   
 - **Chart problems**: The answer is a plot.  
-  *Example*: A sample from *InsightBench* where the intermediate answer is a plot. The agent must write code to generate it.
+  *Example*: A sample from *VisEval* where the answer is a plot. The agent must write code to generate it.
 
 ---
 
@@ -40,7 +42,7 @@ We aim to structure each sample (question-level) in our BA-bench using the follo
     'refined_question': 'Is the variability in GRE scores not significantly different from that in Letter of Recommendation?',
     'relevant_column': '[{"column_header": "GRE Score", "is_strata": false, "is_control": false}, {"column_header": "LOR", "is_strata": false, "is_control": false}]',
     'results': '[{"method": "Mood Variance Test", "result": "{\"stat\": 0.0, \"p value\": 1.0}", "conclusion": "Variance not significantly different between them"}, {"method": "Levene Test", "result": "{\"stat\": 735.69701, \"p value\": 0.0}", "conclusion": "Variance significantly different between them"}]',
-    'ground_truth': '{"columns": ["GRE Score", "LOR"], "methods": ["Mood Variance Test", "Levene Test"]}',
+    'answer': '{"columns": ["GRE Score", "LOR"], "methods": ["Mood Variance Test", "Levene Test"]}',
     'task': 'Variance Test',
     'difficulty': 'hard',
     'domain': 'Education & Student Performance'
@@ -133,6 +135,38 @@ We aim to structure each sample (question-level) in our BA-bench using the follo
 }
 ```
 
+5. BLADE
+```
+@misc{guBLADEBenchmarkingLanguage2024,
+  title = {BLADE: Benchmarking Language Model Agents for Data-Driven Science},
+  author = {Gu, Ken and Shang, Ruoxi and Jiang, Ruien and Kuang, Keying and Lin, Richard-John and Lyu, Donghe and Mao, Yue and Pan, Youran and Wu, Teng and Yu, Jiaqian and Zhang, Yikun and Zhang, Tianmai M. and Zhu, Lanyi and Merrill, Mike A. and Heer, Jeffrey and Althoff, Tim},
+  year = {2024},
+  month = aug,
+  number = {arXiv:2408.09667},
+  eprint = {2408.09667},
+  primaryclass = {cs},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.2408.09667}
+}
+```
+
+6. VisEval
+```
+@article{chenVisEvalBenchmarkData2025,
+  title = {{{VisEval}}: {{A Benchmark}} for {{Data Visualization}} in the {{Era}} of {{Large Language Models}}},
+  author = {Chen, Nan and Zhang, Yuge and Xu, Jiahang and Ren, Kan and Yang, Yuqing},
+  year = {2025},
+  month = jan,
+  journal = {IEEE Transactions on Visualization and Computer Graphics},
+  volume = {31},
+  number = {1},
+  pages = {1301--1311},
+  issn = {1941-0506},
+  doi = {10.1109/TVCG.2024.3456320}
+}
+
+```
+
 ## Collaboration Work
 * one person to process InsightBench (Yingyi)
 * one person to process StatQA and Infiagent-dabench
@@ -144,20 +178,21 @@ A exapmle the data can transmit to
     'refined_question': 'Is the variability in GRE scores not significantly different from that in Letter of Recommendation?',
     'relevant_column': '[{"column_header": "GRE Score", "is_strata": false, "is_control": false}, {"column_header": "LOR", "is_strata": false, "is_control": false}]',
     'results': '[{"method": "Mood Variance Test", "result": "{\"stat\": 0.0, \"p value\": 1.0}", "conclusion": "Variance not significantly different between them"}, {"method": "Levene Test", "result": "{\"stat\": 735.69701, \"p value\": 0.0}", "conclusion": "Variance significantly different between them"}]',
-    'ground_truth': '{"columns": ["GRE Score", "LOR"], "methods": ["Mood Variance Test", "Levene Test"]}',
+    'answer': '{"columns": ["GRE Score", "LOR"], "methods": ["Mood Variance Test", "Levene Test"]}',
     'task': 'Variance Test',
     'difficulty': 'hard',
     'domain': 'Education & Student Performance'
 }
 ```
 
+[comment]: Again, let's use a different example for this one. 
 ```python
 {
-    'unique_id': "01", 
+    'id': "01", 
     'question': "Is the variability in GRE scores not significantly different from that in Letter of Recommendation?",  
     'data_file':  'Dataset for Admission in the University.csv',
     'doc_file': 'None',  
-    'ground_truth': '{"columns": ["GRE Score", "LOR"], "methods": ["Mood Variance Test", "Levene Test"]}', 
+    'answer': '{"columns": ["GRE Score", "LOR"], "methods": ["Mood Variance Test", "Levene Test"]}', 
     'data_domain': 'Education & Student Performance', 
     'analysis_type': 'Structure problems',  
     'origin_from': ["StatQA","refined_question"], 
