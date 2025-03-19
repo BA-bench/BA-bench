@@ -1,0 +1,11 @@
+{
+    "name": "Count of Resolved Tickets",
+    "description": "Number of resolved tickets handled by each personnel.",
+    "value": [
+        58,
+        48,
+        46,
+        45,
+        44
+    ]
+}

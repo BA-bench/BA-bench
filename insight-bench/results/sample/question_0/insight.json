@@ -1,0 +1,7 @@
+{
+    "answer": "The distribution of ticket resolutions by category shows that Hardware has the highest count with 336 resolutions, followed by Network with 51, Software with 41, Database with 40, and Inquiry / Help with 32.",
+    "insight": "Interestingly, Hardware tickets account for approximately 63% of all resolutions, suggesting that this category may require more attention or resources compared to others.",
+    "justification": "This distribution highlights that the majority of ticket resolutions are related to Hardware, indicating a potential area for improvement or focus in support resources.",
+    "output_folder": "results/sample/question_0",
+    "question": "What is the distribution of ticket resolutions by category over the given time period?"
+}

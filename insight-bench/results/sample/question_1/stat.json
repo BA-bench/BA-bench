@@ -1,0 +1,26 @@
+{
+    "name": "Resolved Tickets by Assigned Personnel",
+    "description": "Counts of resolved tickets for each assigned personnel.",
+    "value": [
+        {
+            "assigned_to": "Beth Anglin",
+            "count": 58
+        },
+        {
+            "assigned_to": "Fred Luddy",
+            "count": 48
+        },
+        {
+            "assigned_to": "Charlie Whitherspoon",
+            "count": 46
+        },
+        {
+            "assigned_to": "Howard Johnson",
+            "count": 45
+        },
+        {
+            "assigned_to": "Luke Wilson",
+            "count": 44
+        }
+    ]
+}

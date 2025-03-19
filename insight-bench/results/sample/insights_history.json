@@ -1,0 +1,16 @@
+[
+    {
+        "question": "What is the distribution of ticket resolutions by category over the given time period?",
+        "answer": "The distribution of ticket resolutions by category shows that Hardware has the highest count with 336 resolutions, followed by Network with 51, Software with 41, Database with 40, and Inquiry / Help with 32.",
+        "insight": "Interestingly, Hardware tickets account for approximately 63% of all resolutions, suggesting that this category may require more attention or resources compared to others.",
+        "justification": "This distribution highlights that the majority of ticket resolutions are related to Hardware, indicating a potential area for improvement or focus in support resources.",
+        "output_folder": "results/sample/question_0"
+    },
+    {
+        "question": "Which assigned personnel has the highest number of resolved tickets, and what categories do they primarily handle?",
+        "answer": "Beth Anglin has the highest number of resolved tickets, totaling 58, and primarily handles categories such as Hardware, Network, and Software.",
+        "insight": "In the dataset, the top personnel handling resolved tickets have a significant variance in their performance, with Beth Anglin standing out as the top resolver, showcasing the potential areas of expertise and workload distribution in support operations.",
+        "justification": "According to the analysis, Beth Anglin leads with 58 resolved tickets, providing a clear indication of her effectiveness in managing support issues across multiple categories.",
+        "output_folder": "results/sample/question_1"
+    }
+]

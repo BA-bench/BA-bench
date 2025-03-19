@@ -1,0 +1,11 @@
+{
+    "name": "Ticket Categories",
+    "description": "Different categories for ticket resolutions.",
+    "value": [
+        "Software",
+        "Hardware",
+        "Network",
+        "Inquiry / Help",
+        "Database"
+    ]
+}

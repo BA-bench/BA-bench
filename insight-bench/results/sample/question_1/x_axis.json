@@ -1,0 +1,11 @@
+{
+    "name": "Assigned Personnel",
+    "description": "Top assigned personnel handling resolved tickets.",
+    "value": [
+        "Beth Anglin",
+        "Fred Luddy",
+        "Charlie Whitherspoon",
+        "Howard Johnson",
+        "Luke Wilson"
+    ]
+}

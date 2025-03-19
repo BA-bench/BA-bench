@@ -1,0 +1,11 @@
+{
+    "name": "Ticket Resolutions by Category",
+    "description": "A count of ticket resolutions categorized by type.",
+    "value": {
+        "Hardware": 336,
+        "Network": 51,
+        "Software": 41,
+        "Database": 40,
+        "Inquiry / Help": 32
+    }
+}

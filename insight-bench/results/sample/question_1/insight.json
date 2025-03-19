@@ -1,0 +1,7 @@
+{
+    "answer": "Beth Anglin has the highest number of resolved tickets, totaling 58, and primarily handles categories such as Hardware, Network, and Software.",
+    "insight": "In the dataset, the top personnel handling resolved tickets have a significant variance in their performance, with Beth Anglin standing out as the top resolver, showcasing the potential areas of expertise and workload distribution in support operations.",
+    "justification": "According to the analysis, Beth Anglin leads with 58 resolved tickets, providing a clear indication of her effectiveness in managing support issues across multiple categories.",
+    "output_folder": "results/sample/question_1",
+    "question": "Which assigned personnel has the highest number of resolved tickets, and what categories do they primarily handle?"
+}
