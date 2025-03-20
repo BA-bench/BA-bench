@@ -164,12 +164,12 @@ We aim to structure each sample (question-level) in our BA-bench using the follo
   issn = {1941-0506},
   doi = {10.1109/TVCG.2024.3456320}
 }
-
 ```
 
 ## Collaboration Work
-* one person to process InsightBench (Yingyi)
-* one person to process StatQA and Infiagent-dabench
+* one person to process InsightBench (Yingyi) <span style="color: purple;">Done</span>
+* one person to process StatQA and Infiagent-dabench (Yingyi)  <span style="color: purple;">Done</span>
+* one person to make a basic agent for conduct experiment
 
 A exapmle the data can transmit to
 ```python
