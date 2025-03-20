@@ -169,7 +169,8 @@ We aim to structure each sample (question-level) in our BA-bench using the follo
 ## Collaboration Work
 * one person to process InsightBench (Yingyi) <span style="color: purple;">Done</span>
 * one person to process StatQA and Infiagent-dabench (Yingyi)  <span style="color: purple;">Done</span>
-* one person to make a basic agent for conduct experiment
+* one person to process DSBench, BLADE and VisEval <span style="color: blue;">Ongoing</span>
+* one person to make a basic agent for conduct experiment <span style="color: blue;">Ongoing</span>
 
 A exapmle the data can transmit to
 ```python
