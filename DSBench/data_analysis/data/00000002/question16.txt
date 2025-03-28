@@ -1,0 +1,1 @@
+Question 16 Which of the following is the concatenating operator? a. Apostrophe (‘) b. Exclamation (!) c. Ampersand (&) d. Hash (#)

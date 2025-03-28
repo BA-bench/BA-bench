@@ -1,0 +1,1 @@
+Question 36 Using Profile 2 of cash available from operations, what is the final repayment amount for the shareholder loan? [4 marks] A. $191,462 B. $191,463 C. $191,464 D. $191,465 E. $191,466 F. $191,467 G. $191,468 H. $191,469 I. $191,470 

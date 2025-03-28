@@ -1,0 +1,1 @@
+Question 3 The formula to calculate the percentage growth in sales is? a. Period 2 net sales less period 1 net sales divided by period 1 net sales b. Period 1 net sales less period 2 net sales divided by period 1 net sales c. Period 1 net sales less period 2 net sales divided by period 2 net sales d. Period 2 net sales less period 1 net sales divided by period 2 net sales

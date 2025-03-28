@@ -1,0 +1,1 @@
+QUESTION 10 Generally, which of these is the most conservative ratio in measuring a company's solvency? a. Current ratio b. Quick ratio c. Cash ratio d. All options are equally conservative  

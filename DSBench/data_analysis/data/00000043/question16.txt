@@ -1,0 +1,1 @@
+Question 16 Is the formula used to calculate each year’s ‘Total Assets’ correct?  a. Yes b. No c. Not enough information    

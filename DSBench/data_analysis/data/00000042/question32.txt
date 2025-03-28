@@ -1,0 +1,1 @@
+32 Returns the logarithm of a number to the base specified

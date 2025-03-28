@@ -1,0 +1,1 @@
+QUESTION 3 Your friend decides to include the numbers 8 and 9 as a losing number for only the initial roll, what is the new probability of the player winning the game? a) <50% b) 50%-55% c) 55%-65% d) >65%            

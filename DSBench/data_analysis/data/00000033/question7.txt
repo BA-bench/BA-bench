@@ -1,0 +1,1 @@
+Question 7 For Loan 2, the loan balance immediately after the 12th payment on 30 June 2016 is:  a. $77,566.02 b. $77,566.34 c. $77,566.87 d. $77,567.31 

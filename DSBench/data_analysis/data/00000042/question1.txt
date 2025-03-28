@@ -1,0 +1,1 @@
+1 Joins several text strings into one text string

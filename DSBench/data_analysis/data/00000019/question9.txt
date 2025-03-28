@@ -1,0 +1,1 @@
+Question 9 In what calendar year does Bob’s account balance first exceed $200,000? [3 marks] A. 2029 B. 2030 C. 2031 D. 2032 E. 2033 F. 2034 G. 2035 H. 2036 I. 2037  

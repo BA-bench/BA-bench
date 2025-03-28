@@ -1,0 +1,1 @@
+QUESTION 12 Which one of the following Excel functions can be used without the need for other functions to generate a one dimensional array of sequential values for use within a single cell array formula?  a. OFFSET  b. ROW  c. INDEX  d. COLUMNS  

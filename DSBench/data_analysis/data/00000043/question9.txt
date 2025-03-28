@@ -1,0 +1,1 @@
+Question 9 Is the formula used to calculate each year’s ‘Earnings before taxes’ correct?  a. Yes b. No c. Not enough information

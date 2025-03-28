@@ -1,0 +1,1 @@
+QUESTION 15 Is it possible to instruct Excel to recalculate ONLY the active worksheet and not the rest of the workbook? a. Yes, it can be done with a keyboard shortcut but not with VBA  b. Yes, it can be done with VBA but not with a keyboard shortcut  c. Yes, it can be done with either a keyboard shortcut or with VBA  d. No, it is not possible

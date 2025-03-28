@@ -1,0 +1,360 @@
+SOLVING POKER HANDS
+Using the rules provided in the accompanying workbook, you will need to analyze two 5 card poker hands 
+to: 
+Step 1. 
+Sort each of the players’ cards by value, highest to lowest (assume the ace is high);  
+Step 2. 
+Classify each of the players hands into one of the hands shown on Table 3; and 
+Step 3. 
+Identify the winner where the two 5 hard hands have the same classification; 
+ 
+Abbreviations  
+Each card is entered into an Excel cell by typing the value followed by the letter of the suit into a cell 
+according to the following tables (eg KD, 9C, 4H). Card values are shown in descending order, except the 
+Ace which can be allocated the value of 1 or 14 depending on the player’s preference.  (note that the only 
+time an ace would be used as a low card is when completing a low end straight, eg.  A♥ 2♥ 3♠ 4♥ 5♣) 
+ 
+   Table 1: Suits                                                   Table 2: Value 
+Suit 
+Abbreviation 
+ 
+Face Value 
+Rank 
+Abbreviation 
+Diamond ♦ 
+D 
+ 
+Ace 
+14 or 1 
+A 
+Club ♣  
+C 
+ 
+King 
+13 
+K 
+Heart ♥ 
+H 
+ 
+Queen 
+12 
+Q 
+Spade ♠ 
+ 
+ S 
+ 
+Jack 
+11 
+J 
+ 
+ 
+ 
+10 
+10 
+10 
+ 
+ 
+ 
+9 
+9 
+9 
+ 
+ 
+ 
+8 
+8 
+8 
+ 
+ 
+ 
+7 
+7 
+7 
+ 
+ 
+ 
+6 
+6 
+6 
+ 
+ 
+ 
+5 
+5 
+5 
+ 
+ 
+ 
+4 
+4 
+4 
+ 
+ 
+ 
+3 
+3 
+3 
+ 
+ 
+ 
+2 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ModelOff 2012 Questions and Answers 
+ 
+ 
+Evaluating Hands 
+The winner is determined by scoring each of the 5 card hands against table 3 below (organized from 
+highest to lowest) and allocating a score. The player who has the 5 card hand with the highest score is the 
+winner. For instance if Player 1 has A♦ K♦ Q♦ J♦ and 10♦ (Royal Flush) and Player 2 has 
+Q♣ 10♣ 7♣ 6♣ 4♣ (Flush), Player 1 wins as the Royal Flush has a higher score.  
+Where both players cards achieve the same score, for instance if both hands are scored as a Flush, then 
+the winner is selected according to the Tie Breaker rules.  Under the Tie Breaker rules for two Flushes, 
+Player 1’s Q♣ 10♣ 7♣ 6♣ 4♣ beats Player 2’s Q♦ 10♦ 7♦ 5♦ 4♦. 
+In some cases the Tie Breaker will not be able to identify a winner and the result will be a draw (also 
+referred to as a dead heat). For instance, under the Two Pair rules Player 1’s 10♦ 10♥ 4♥ 4♣ 3♠ would 
+draw with Player 2’s 10♠ 10♣ 4♠ 4♦ 3♥. 
+ 
+Marking 
+In this question there are 25 potential outcomes that need to be tested (See the marking grid on the Mark 
+sheet); candidates will be allocated 1 mark for each correctly identified outcome up to 20 and 2 marks for 
+each correctly identified outcome above 20. The maximum score for the question is 30 marks. 
+To assist you, a marking macro has been integrated into the workbook. You can use the macro to quickly: 
+1. Identify hands for which your formulae and logic fail; or 
+2. Provide you with an indicative mark; 
+Marks are allocated for consistently identifying the strongest hand and the winning player for a particular 
+scenario. Step 1 is optional as no marks are allocated to it, however it is recommended that candidates 
+complete this step as the outcome is useful for steps 2 and 3. 
+ 
+Table 3: Hand Classification Table 
+Score	
+  
+Hand	
+  
+Classification	
+  
+Requirements	
+  
+Ranking	
+  two	
+  hands	
+  of	
+  the	
+  same	
+  
+classification	
+  (Tie	
+  Breaker)	
+  
+Draw	
+  
+possible?	
+  
+10	
+  
+Royal	
+  Flush	
+  
+A straight flush is a hand 
+that contains an Ace, King, 
+Queen, Jack and Ten of the 
+same suit such 
+as A♦ K♦ Q♦ J♦ 10♦. 
+If	
+  there	
+  are	
+  two	
+  royal	
+  flush’s,	
+  the	
+  
+game	
+  is	
+  draw.	
+  
+No	
+  
+9	
+  
+Straight	
+  Flush	
+  
+A straight flush is a hand 
+that contains five cards in 
+sequence, all of the 
+same suit such 
+as Q♣ J♣ 10♣ 9♣ 8♣ 
+Two straight	
+  flush are ranked by 
+comparing the highest card of each.	
+  
+Yes 
+8	
+  
+Four	
+  of	
+  a	
+  Kind	
+  
+Four of a kind is a poker 
+hand such 
+as 9♣ 9♠ 9♦ 9♥ J♥, that 
+contains all four cards of 
+one rank 
+The Four of a kind with higher-
+ranking cards defeat lower-ranking 
+ones. 9♣ 9♠ 9♦ 9♥ J♥ beats 
+7♠ 7♥ 7♦ 7♣ A♠	
+  
+No 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ModelOff 2012 Questions and Answers 
+ 
+7	
+  
+Full	
+  House	
+  
+A full house is a hand such 
+as 3♣ 3♠ 3♦ 6♣ 6♥, that 
+contains three matching 
+cards of one rank and two 
+matching cards of another 
+rank. 
+Between two full houses, the one 
+with the higher-ranking three cards 
+wins, 
+so 7♠ 7♥ 7♦ 4♠ 4♣ defeats 6♠ 6♥ 6♦ 
+A♠ A♣.	
+  
+No 
+6	
+  
+Flush	
+  
+A flush is a poker hand 
+such as Q♣ 10♣ 7♣ 6♣ 4♣, 
+where all five cards are of 
+the same suit. 
+The highest-ranking card of each is 
+compared to determine the winner. 
+If both hands have the same highest 
+card, then the second highest-
+ranking card is compared, and so on 
+until a difference is found.	
+  
+Yes 
+5	
+  
+Straight	
+  
+A straight is a poker hand 
+such as Q♣ J♠ 10♠ 9♥ 8♥, 
+that contains five cards of 
+sequential rank. 
+Two straights are ranked by 
+comparing the highest card of each.	
+  
+Yes 
+4	
+  
+Three	
+  of	
+  a	
+  
+Kind	
+  
+Three of a kind is a poker 
+hand such 
+as 2♦ 2♠ 2♣ K♠ 6♥ that 
+contains three cards of the 
+same rank. 
+A higher-valued three-of-a-kind 
+defeats a lower-valued three-of-
+kind, 
+so Q♠ Q♥ Q♦ 7♠ 4♣ defeats J♠ J♣ J
+♦ A♦ K♣.	
+  
+No 
+3	
+  
+Two	
+  Pair	
+  
+A poker hand such 
+as J♥ J♣ 4♣ 4♠ 9♥, that 
+contains two cards of the 
+same rank, plus two cards 
+of another rank. 
+To rank two hands both containing 
+two pair, the higher-ranking pair of 
+each is first compared, and the 
+higher pair wins 
+(so 10♠ 10♣ 8♦ 8♠ 4♥ defeats 8♥ 8♣
+ 4♠ 4♣ 10♥). If both hands have the 
+same top pair, then the second pair 
+of each is compared, such that 
+10♠ 10♣ 8♥ 8♣ 4♠ defeats 10♦ 
+10♥ 4♠ 4♥ Q♥. If both hands have 
+the same two pairs, the sole 
+remaining unpaired card determines 
+the winner. Where no difference is 
+found we have a draw. 	
+  
+Yes 
+2	
+  
+Pair	
+  
+One pair is a poker hand 
+such as 4♥ 4♠ K♠ 10♦ 5♠, 
+that contains two cards of 
+one rank. 
+Higher-ranking pairs defeat lower-
+ranking pairs; if two hands have the 
+same pair, the non-paired cards are 
+compared in descending order to 
+determine the winner. Where no 
+difference is found we have a draw	
+  
+Yes 
+1	
+  
+High	
+  Card	
+  
+A high-card is a poker hand 
+such as K♥ J♥ 8♣ 7♦ 4♠ 
+that is made of any five 
+cards not meeting any of 
+the requirements for other 
+hands. 
+Two high-card hands are ranked by 
+comparing the highest-ranking card. 
+If those are equal, then the next 
+highest-ranking card from each 
+hand is compared, and so on until a 
+difference is found. Where no 
+difference is found we have a draw.	
+  
+Yes 
+ 
+ 
+ 

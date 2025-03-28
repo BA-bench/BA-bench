@@ -1,0 +1,1 @@
+8 Removes all extra spaces from a text string except for single spaces between words

@@ -1,0 +1,1 @@
+7 Returns a specified number of characters from the end of a text string

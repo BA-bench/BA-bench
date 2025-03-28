@@ -1,0 +1,1 @@
+Question 32 What is the difference in the total profit (in $) between Scenario 1b and Scenario 1a (both including all hubs)? State your answer as a positive number to the nearest dollar (e.g. $10,000) [5 marks

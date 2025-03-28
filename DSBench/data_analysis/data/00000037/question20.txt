@@ -1,0 +1,1 @@
+QUESTION 20 Which of the following is logically equivalent to AND(A1,OR(A2,A3))?  a. OR(AND(A1,A2),OR(A2,A3)) b. OR(NOT(A3),AND(A1,A2)) c. OR(AND(A1,A2),AND(A1,A3)) d. OR(A3,AND(A1,A2))

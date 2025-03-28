@@ -1,0 +1,1 @@
+QUESTION 2 What is the closing balance of Tranche 1 on 31 March 2020? Select the closest option. a. $1.5m b. $1.7m c. $1.9m d. $2.1m  

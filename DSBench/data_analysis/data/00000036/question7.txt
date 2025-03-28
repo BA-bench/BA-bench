@@ -1,0 +1,1 @@
+QUESTION 7 A loan facility with a $30m facility limit begins on 1 January 2013 and incurs a commitment fee of 1% per annum on the daily undrawn balance. Drawdowns of $10m occur on each of 1 February, 1 March and 1 April 2013, at which point the loan is fully drawn. The total commitment fee incurred is closest to: a. $5,000 b. $50,000 c. $150,000 d. $500,000  

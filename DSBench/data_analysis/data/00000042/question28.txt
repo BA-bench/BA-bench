@@ -1,0 +1,1 @@
+28 Returns the factorial of a number

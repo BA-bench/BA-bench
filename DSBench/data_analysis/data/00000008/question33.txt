@@ -1,0 +1,1 @@
+Question 33 What is the total profit (in $) for Scenario 2a (including all hubs)? [4 marks] A. $10,855,677 B. $10,855,678 C. $10,855,679 D. $10,855,680 E. $10,855,681 F. $10,855,682 G. $10,855,683 H. $10,855,684 I. $10,855,685

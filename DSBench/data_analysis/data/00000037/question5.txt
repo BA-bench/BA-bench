@@ -1,0 +1,1 @@
+QUESTION 5 What is the term generally applied to the prescribed value of a business at a set time (e.g. 10 years) from today? a. Net Present Value b. Mobilization Price c. Termination Value d. Terminal Value  

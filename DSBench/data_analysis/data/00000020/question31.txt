@@ -1,0 +1,1 @@
+Question 31 Under the straight line method, if you double the useful life of each asset class, what is the total depreciation for all asset classes in 2034? Make sure to undo this change before progressing to the next question. [4 marks] A. 193,785,954 B. 193,785,955 C. 193,785,956 D. 193,785,957 E. 193,785,958 F. 193,785,959 G. 193,785,960 H. 193,785,961 I. 193,785,962  

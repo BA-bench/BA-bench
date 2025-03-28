@@ -1,0 +1,1 @@
+Question 5 For Loan 2, how many interest periods have exactly 31 days?  a. 12 b. 13 c. 14 d. 15 

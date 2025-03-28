@@ -1,0 +1,2 @@
+QUESTION 15 During which 3 months did manager John Jones have the highest cumulative profit ignoring all sales to postal codes 3019 and 3028 and ignoring all sales of items 4, 5, 6, 17 and 18?  a. March, May, June b. February, March, May c. February, March, June d. February, May, June             
+ 

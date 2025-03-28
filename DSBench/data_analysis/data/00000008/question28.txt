@@ -1,0 +1,1 @@
+Question 28 What is the total penalty cost (in $) for Hub 2 in Scenario 1a? [3 marks] A. $27,500 B. $28,000 C. $28,500 D. $29,000 E. $29,500 F. $30,000 G. $30,500 H. $31,000 I. $31,500

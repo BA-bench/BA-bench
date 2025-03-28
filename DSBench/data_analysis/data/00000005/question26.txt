@@ -1,0 +1,1 @@
+Question 26 If all turns were scored according to their second highest scoring category, what would the total score for all the turns be? A. 126,783 B. 126,784 C. 126,785 D. 126,786 E. 126,787 F. 126,788 G. 126,789 H. 126,790 I. 126,791

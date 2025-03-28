@@ -1,0 +1,1 @@
+Question 18 The formula =$A$7+$A$8 uses? a. Absolute cell references b. Relative cell references c. Mixed cell references d. Indirect cell references

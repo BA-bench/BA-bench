@@ -1,0 +1,1 @@
+Question 8 Is the formula used to calculate each year’s ‘EBIT’ correct?  a. Yes b. No c. Not enough information    

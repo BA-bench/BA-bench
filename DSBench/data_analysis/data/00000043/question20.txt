@@ -1,0 +1,1 @@
+Question 20 Which of these options is closest to the total cumulative ‘Cash available for debt repayment’ for Years 1 - 5? a. ($1,602) b. ($1,302) c. ($2,302) d. ($1,902)

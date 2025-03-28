@@ -1,0 +1,1 @@
+Question 6 Using the NPV function, what is the Present Value as at 31 December 2014 of the first 10 years of cash flow in nominal Euros?  a. 515m b. 519m c. 522m d. 523m 

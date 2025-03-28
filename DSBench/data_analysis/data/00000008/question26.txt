@@ -1,0 +1,1 @@
+Question 26 There are 36 individual distances listed between two depots (or 'depot pairings'). Of these, how many would never be used because they cost more to transport (and earn the revenue) than paying the penalty? [3 marks] A. 6 B. 7 C. 8 D. 9 E. 10 F. 11 G. 12 H. 13 I. 14

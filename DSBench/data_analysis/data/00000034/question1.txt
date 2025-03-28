@@ -1,0 +1,1 @@
+QUESTION 1 Over the entire analysis period, what was the quantity of item 10 sold while John Jones was the Manager on duty? Select the closest answer.  a. 300 b. 600 c. 900 d. 2,000  

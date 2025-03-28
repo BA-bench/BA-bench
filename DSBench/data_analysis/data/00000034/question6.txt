@@ -1,0 +1,1 @@
+QUESTION 6 During the month of May, which postal code bought the most of item 5 by quantity?  a. 3011 b. 3014 c. 3029 d. 3032  

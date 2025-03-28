@@ -1,0 +1,1 @@
+Question 28 Under the declining balance method, what is the total depreciation for Class C over the 20 years? [2 marks] A. 940,107,136 B. 940,107,137 C. 940,107,138 D. 940,107,139 E. 940,107,140 F. 940,107,141 G. 940,107,142 H. 940,107,143 I. 940,107,14

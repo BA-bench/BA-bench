@@ -1,0 +1,1 @@
+Question 6 For Loan 2, the Monthly Payment Amount is:  a. $2,394.62 b. $2,394.98 c. $2,395.14 d. $2,395.40 

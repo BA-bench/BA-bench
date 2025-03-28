@@ -1,0 +1,1 @@
+Question 10 What is the total cash received in $m from all companies in 2018? Please enter your answer in millions to two decimal places. Use a period “.” as the decimal point character. [3 marks

@@ -1,0 +1,1 @@
+Question 4 What is the highest amount of electricity used in a continuous 4 hour period?  a. 17.237kWh b. 17.327kWh c. 17.422kWh d. 17.487kWh          

@@ -1,0 +1,1 @@
+Question 15 Which of these options is closest to the total net cash flows from investing and financing activities (only) that is included in the ‘Cash available for debt repayment’ in Year 1?   a. ($560) b. ($1,390) c. ($1,640) d. ($1,740)    

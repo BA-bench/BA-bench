@@ -1,0 +1,1 @@
+Question 37 If the bank interest rate was 6.5%, what would the IRR earned by the equity provider for the project be (rounded to 1 decimal place)? Use the XIRR function to answer. Make sure to reset your interest rate to 7% before continuing to the next question.  A. 18.4% B. 18.5% C. 18.6% D. 18.7% E. 18.8% F. 18.9% G. 19.0% H. 19.1% I. 19.2%

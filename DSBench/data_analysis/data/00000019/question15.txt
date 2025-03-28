@@ -1,0 +1,1 @@
+Question 15 Adjust Charlie’s date of account closure so that he continues working and making deposits indefinitely. His salary should continue to grow as stated. In what year will his account balance first exceed $1,200,000? [3 marks] Type in your answer, without any thousands separator. E.g. the year 2018 should be typed as 2018.   

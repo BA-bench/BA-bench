@@ -1,0 +1,1 @@
+Question 34 Under the sum of the years method, what is the total depreciation for all asset classes over the 20 years? [3 marks] A. 4,091,986,633 B. 4,091,986,634 C. 4,091,986,635 D. 4,091,986,636 E. 4,091,986,637 F. 4,091,986,638 G. 4,091,986,639 H. 4,091,986,640 I. 4,091,986,64

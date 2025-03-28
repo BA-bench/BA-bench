@@ -1,0 +1,1 @@
+QUESTION 13 Only considering postal codes 3013, 3017 and 3031, which item had the highest total profit during the month of February?  a. 3 b. 6 c. 17 d. 44  

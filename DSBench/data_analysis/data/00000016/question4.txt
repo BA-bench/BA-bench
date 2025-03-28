@@ -1,0 +1,1 @@
+Question 4 What is the cash received in $m from Company D between the months of Apr 2018 and Oct 2018 (inclusive)? [3 marks] A. $48.30m B. $48.53m C. $48.76m D. $48.99m E. $49.22m F. $49.45m G. $49.68m H. $49.91m I. $50.14m  

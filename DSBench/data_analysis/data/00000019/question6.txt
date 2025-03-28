@@ -1,0 +1,1 @@
+Question 6 What is the balance of Alice’s account at 31 Dec 2024? [3 marks] A. $63,351 B. $63,352 C. $63,353 D. $63,354 E. $63,355 F. $63,356 G. $63,357 H. $63,358 I. $63,35

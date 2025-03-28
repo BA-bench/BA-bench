@@ -1,0 +1,1 @@
+Question 14 What is the total number of stops made on the Red line in a day? Include both Outbound and Inbound services, and include both the starting and ending station of each service. [3 marks] A. 320 B. 325 C. 330 D. 335 E. 340 F. 345 G. 350 H. 355 I. 360

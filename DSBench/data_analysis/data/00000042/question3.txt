@@ -1,0 +1,1 @@
+3 Returns the number of characters in a text string

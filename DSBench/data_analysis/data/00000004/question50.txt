@@ -1,0 +1,1 @@
+Question 50 What are the total cash revenues received less total costs paid in the year 2027? Please enter your answer to the nearest dollar. [3 marks

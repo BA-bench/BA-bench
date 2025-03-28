@@ -1,0 +1,1 @@
+Question 10 Is the formula used to calculate each year’s ‘Earnings after taxes’ correct?  a. Yes b. No c. Not enough information    

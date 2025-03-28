@@ -1,0 +1,1 @@
+Question 25 If the company’s cost of capital was 4% what is the maximum portfolio NPV value that can be achieved subject to the constraint on total purchase price? [3 marks] Please enter your answer to the nearest dollar (e.g. $1,000).       

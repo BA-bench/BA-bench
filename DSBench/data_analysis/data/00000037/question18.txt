@@ -1,0 +1,1 @@
+QUESTION 18 What key stroke combination is used to enter an array formula?  a. Ctrl + Shift + Enter b. Ctrl + Enter c. Alt + Enter d. Alt + Shift + Enter  

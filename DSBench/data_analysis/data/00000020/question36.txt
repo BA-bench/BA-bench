@@ -1,0 +1,1 @@
+Question 36 What is the total depreciation of all 4 methods over the 20 years? Round your answer to the nearest dollar. [3 marks] Hint: the answer is between 14,970,000,000 and 14,980,000,000. Type in your answer, without any dollar signs or thousands separator. E.g. 1,000,000 should be typed as 100000

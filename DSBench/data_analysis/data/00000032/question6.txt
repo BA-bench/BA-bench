@@ -1,0 +1,1 @@
+Question 6 Based on your historic electricity usage, what would your annual cost of electricity be under the "Hourly Flex" contract?  a.  $1369.36 b.  $1376.48 c.  $1389.67 d.  $1396.75 

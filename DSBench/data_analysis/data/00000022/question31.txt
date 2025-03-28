@@ -1,0 +1,1 @@
+Question 31 What is the total construction cost for all houses produced in the quarter ended March 2019?  A. $42,394,000 B. $42,395,000 C $42,396,000 D. $42,397,000 E. $42,398,000 F. $42,399,000 G. $42,400,000 H. $42,401,000 I. $42,402,000

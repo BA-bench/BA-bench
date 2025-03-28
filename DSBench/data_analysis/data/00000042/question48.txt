@@ -1,0 +1,1 @@
+48 Returns the interest rate per period for a constant annuity

@@ -1,0 +1,1 @@
+Question 20 If the third argument in an INDEX function is left blank? a. The first cell in the column is returned b. The last cell in the column is returned c. The entire column is returned d. An error is returned

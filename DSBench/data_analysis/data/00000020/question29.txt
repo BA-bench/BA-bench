@@ -1,0 +1,1 @@
+Question 29 Under the straight line method, what is the depreciation for Class E in 2020? [2 marks] A. 4,026,474 B. 4,026,475 C. 4,026,476 D. 4,026,477 E. 4,026,478 F. 4,026,479 G. 4,026,480 H. 4,026,481 I. 4,026,482  

@@ -1,0 +1,1 @@
+QUESTION 2 Over the entire analysis period, what were the 3 highest selling items by quantity?  a. 8, 17, 40 b. 4, 11, 49 c. 6, 17, 18 d. 7, 11, 33  

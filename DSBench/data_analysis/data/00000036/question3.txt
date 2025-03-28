@@ -1,0 +1,2 @@
+QUESTION 3 $10,000 is deposited in an account at the start of the year. The account earns a gross interest rate of 7.5% per annum. How much more will the account balance be at the end of the year if interest is compounded monthly versus if interest is compounded quarterly? Assume interest is calculated on a 30/360 basis. Pick the closest answer. a. $2.50 b. $5.00 c. $15.00 d. $25.00           
+ 

@@ -1,0 +1,1 @@
+QUESTION 3 What is the closing balance for the taxation asset schedule 2019? a) 101.6m b) 62.9m c) 91.8m d) 68.2

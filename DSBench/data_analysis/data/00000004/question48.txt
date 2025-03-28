@@ -1,0 +1,1 @@
+Question 48 What is the total amount of cost 2 (incinerator processing costs) paid between 1 January 2018 and 31 December 2021? [2 marks] A. $19,967,918 B. $19,967,919 C. $19,967,920 D. $19,967,921 E. $19,967,922 F. $19,967,923 G. $19,967,924 H. $19,967,925 I. $19,967,926    

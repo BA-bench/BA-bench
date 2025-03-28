@@ -1,0 +1,1 @@
+Question 14 What is the sum total of all four account balances as at 31 Dec 2039? Round your answer to the nearest dollar. [3 marks] Hint: the answer is between $1,300,000 and $1,400,000. Type in your answer, without any dollar signs or thousands separator. E.g. 1,000,000 should be typed as 100000

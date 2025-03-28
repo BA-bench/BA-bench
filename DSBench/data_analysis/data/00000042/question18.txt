@@ -1,0 +1,1 @@
+18 Returns the reference specified by a text string

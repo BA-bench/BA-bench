@@ -1,0 +1,1 @@
+Question 3 For Loan 1, the Monthly Payment Amount ends in what number of cents (rounded to the nearest cent)?  a. 85 b. 47 c. 32 d. 11 

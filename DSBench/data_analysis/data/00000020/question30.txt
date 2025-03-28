@@ -1,0 +1,1 @@
+Question 30 Under the straight line method, what is the total depreciation for all asset classes in 2034? [3 marks] A. 256,381,769 B. 256,381,770 C. 256,381,771 D. 256,381,772 E. 256,381,773 F. 256,381,774 G. 256,381,775 H. 256,381,776 I. 256,381,77

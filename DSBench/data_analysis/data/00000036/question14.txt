@@ -1,0 +1,1 @@
+QUESTION 14 Which of these functions is a volatile function in Excel?  a. MATCH  b. ROWS  c. AREAS  d. INDIRECT  

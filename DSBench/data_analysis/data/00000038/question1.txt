@@ -1,0 +1,1 @@
+QUESTION 1 What is the total cumulative rated capacity of all installed systems as at 15 September 2014? Pick the closest answer.  a. 4,000 kW b. 5,000 kW c. 5,500 kW d. 6,000 kW  

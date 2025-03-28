@@ -1,0 +1,1 @@
+Question 20 What is the absolute value of difference in operating costs between Properties 4a and 4b? [3 marks] A. $5,848 B. $5,849 C. $5,850 D. $5,851 E. $5,852 F. $5,853 G. $5,854 H. $5,855 I. $5,85

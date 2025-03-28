@@ -1,0 +1,1 @@
+QUESTION 4 A company is 75% funded by Equity and 25% funded by Debt. The company's cost of equity is 15% and its cost of debt is currently 8%. Tax is currently 30%. Using the Capital Asset Pricing Model, which is closest to the Company's Weighted Average Cost of Capital?  a. 8.0% b. 11.5% c. 13.0% d. 15.0%  
