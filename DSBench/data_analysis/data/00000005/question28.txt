@@ -1,0 +1,1 @@
+Question 28 What is the total score for all the games? Type in your answer, without any thousands separator (if relevant). E.g. 1,000,000 should be typed as 1000000

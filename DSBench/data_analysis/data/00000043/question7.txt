@@ -1,0 +1,1 @@
+Question 7 How many rows have formula errors in the ‘Sales’ section of the Income statement?   a. 0 b. 1 c. 2 d. More than 2   

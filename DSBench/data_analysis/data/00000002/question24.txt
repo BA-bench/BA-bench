@@ -1,0 +1,1 @@
+Question 24 Which is not a common loop structure used in VBA? a. DO WHILE ... LOOP b. FOR ... NEXT c. DO ... LOOP UNTIL d. SELECT ... CASE

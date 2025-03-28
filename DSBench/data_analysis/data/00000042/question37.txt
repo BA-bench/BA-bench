@@ -1,0 +1,1 @@
+37 Returns the result of a number raised to a specified power

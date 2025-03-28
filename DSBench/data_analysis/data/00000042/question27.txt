@@ -1,0 +1,1 @@
+27 Returns e raised to a power

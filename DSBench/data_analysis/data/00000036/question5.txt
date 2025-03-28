@@ -1,0 +1,1 @@
+QUESTION 5 Which of the following number formats will cause Excel to display 0 as "-", 10.22 as "10.22x", -1.3 as "(1.3x)" and any text value as Error? a. #,##0.0x;(#,##0.0x);"-";"Error" b. #,##0.0?x;(#,##0.0?x);"-";_-@_- c. #,##0.0&"x";(#,##0.0&"x");"-";"Error" d. #,###.##x;(#,###.##x);"-";"Error"  

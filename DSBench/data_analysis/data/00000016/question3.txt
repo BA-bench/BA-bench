@@ -1,0 +1,1 @@
+Question 3 What is the cash received in $m from Company C between 15 Jul 2018 and 24 Nov 2018 (inclusive)? [3 marks] A. $23.04m B. $23.22m C. $23.40m D. $23.58m E. $23.76m F. $23.94m G. $24.12m H. $24.30m I. $24.48m

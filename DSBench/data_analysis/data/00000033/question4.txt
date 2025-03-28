@@ -1,0 +1,1 @@
+Question 4 For Loan 1, after how many payments does the outstanding loan balance first drop below 40% of the original drawdown value?  a. 44 b. 45 c. 46 d. 47          

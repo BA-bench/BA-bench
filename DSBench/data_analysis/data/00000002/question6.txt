@@ -1,0 +1,1 @@
+Question 6 The cost to replace an asset under a particular fact situation is known as? a. Fair market value b. Fair value c. Replacement cost d. Strategic value    

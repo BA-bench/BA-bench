@@ -1,0 +1,1 @@
+Question 37 Using Profile 3 of cash available from operations, in how many semi-annual periods is the DSRA underfunded? [4 marks] A. 4 B. 5 C. 6 D. 7 E. 8 F. 9 G. 10 H. 11 I. 1

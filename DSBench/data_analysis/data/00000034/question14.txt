@@ -1,0 +1,1 @@
+QUESTION 14 What is the rank of months from highest to lowest based on profit over the entire analysis period?  a. March, June, April, May, January, February b. March, June, May, April, February, January c. June, April, May, January, February, March d. March, June, May, January, February, April  

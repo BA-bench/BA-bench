@@ -1,0 +1,1 @@
+Question 18 Which option is closest to the total of debt from the Revolver and the other 3 debt facilities in year 5?  a. $2,160 b. $3,150 c. $4,140 d. $1,020    

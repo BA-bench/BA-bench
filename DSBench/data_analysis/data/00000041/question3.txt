@@ -1,0 +1,1 @@
+Question 3  What is the expected Internal Rate of Return (IRR) if the property is sold at the end of the 10 years?  a. 9.2%    b. 10.2%    c. 11.2%    d. 12.2%     

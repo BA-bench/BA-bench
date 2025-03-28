@@ -1,0 +1,1 @@
+Question 38 Using Profile 4 of cash available from operations, what is the maximum underfunding for the MMRA? [4 marks] A. $13,980 B. $13,981 C. $13,982  D. $13,983 E. $13,984 F. $13,985 G. $13,986 H. $13,987 I. $13,988 

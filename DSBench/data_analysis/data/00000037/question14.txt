@@ -1,0 +1,1 @@
+QUESTION 14 Which combination of functions might a financial modeler use in place of a VLOOKUP or HLOOKUP function?  a. CHOOSE and INDIRECT b. INDEX and MATCH c. ADDRESS and INDEX d. OFFSET and COUNTIF  

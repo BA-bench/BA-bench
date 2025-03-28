@@ -1,0 +1,1 @@
+41 Converts the dollar price expressed as a fraction into a dollar price expressed as a decimal number

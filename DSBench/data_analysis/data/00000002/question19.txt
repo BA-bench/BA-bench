@@ -1,0 +1,1 @@
+Question 19 A combination of the following functions is often used in place of a VLOOKUP and HLOOKUP? a. CHOOSE and INDIRECT b. SUMIF and INDEX c. INDEX and MATCH d. OFFSET and COUNTIF

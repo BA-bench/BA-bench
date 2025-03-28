@@ -1,0 +1,1 @@
+QUESTION 15 If the third argument in a MATCH function is omitted then the function will:  a. Return the largest value that is less than or equal to the lookup value b. Return the smallest value that is greater than or equal to lookup value c. Return the first value that is exactly equal to lookup value d. Always return an error              

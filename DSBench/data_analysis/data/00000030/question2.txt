@@ -1,0 +1,1 @@
+Question 2 What is Revenue in Year 2 in nominal Euros?  a. 740m b. 745m c. 1,214m d. 1,220m 

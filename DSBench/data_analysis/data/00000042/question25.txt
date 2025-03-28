@@ -1,0 +1,1 @@
+25 Returns the possible number of combinations for a given number of items

@@ -1,0 +1,1 @@
+Question 12 How many rows have formula errors in the ‘Non Current Assets’ section of the Balance Sheet worksheet?  a. 0 b. 1 c. 2 d. More than 2    

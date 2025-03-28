@@ -1,0 +1,1 @@
+Question 17 What are the revenues for Property 2 in September 2019? [2 marks] A. $15,446 B. $15,447 C. $15,448 D. $15,449 E. $15,450 F. $15,451 G. $15,452 H. $15,453 I. $15,454    

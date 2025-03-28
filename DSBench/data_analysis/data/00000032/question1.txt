@@ -1,0 +1,1 @@
+Question 1 What is your average hourly electricity usage?  a. 0.641kWh b. 0.782kWh c. 0.884kWh d. 0.937kWh 

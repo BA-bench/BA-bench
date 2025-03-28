@@ -1,0 +1,1 @@
+Question 31 What is the final repayment amount for the Senior 2 loan? [6 marks] A. $257,601 B. $257,602 C. $257,603 D. $257,604 E. $257,605 F. $257,606 G. $257,607 H. $257,608 I. $257,60

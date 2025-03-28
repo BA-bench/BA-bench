@@ -1,0 +1,1 @@
+Question 33 6. Under the sum of the years method, what is the total depreciation for Class B over the 20 years? [3 marks] A. 1,011,728,600 B. 1,011,728,601 C. 1,011,728,602 D. 1,011,728,603 E. 1,011,728,604 F. 1,011,728,605 G. 1,011,728,606 H. 1,011,728,607 I. 1,011,728,608  

@@ -1,0 +1,1 @@
+Question 11 What is the best way to determine if a normalizing adjustment should be made to accounts receivable? a. Common size the balance sheet b. Use trend analysis c. Look at accounts receivable ageing d. None of the above

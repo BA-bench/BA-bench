@@ -1,0 +1,2 @@
+QUESTION 3 Over the entire analysis period, which sales person sold the highest cumulative quantity of a single item, and which item was it?  a. Kelly, Item 17 b. Sally, Item 17 c. Kelly, Item 20 d. Sally, Item 20            
+ 

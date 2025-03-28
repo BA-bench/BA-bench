@@ -1,0 +1,1 @@
+QUESTION 1 What is the probability of the player winning the game? a) <60% b) 60%-65% c) 65%-70% d) >70%      

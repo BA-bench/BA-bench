@@ -1,0 +1,1 @@
+Question 8 When analyzing comparable companies, which valuation discount may be appropriate for a lack of liquidity in a private company? a. Discount for lack of mobility b. Discount for lack of minority interest c. Discount for lack of marketability d. Discount for lack of maintenance

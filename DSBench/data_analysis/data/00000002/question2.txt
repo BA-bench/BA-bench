@@ -1,0 +1,1 @@
+Question 2 What is not a benefit of Financial Modeling standards? a. Improved quality and transparency b. Decreased development time and costs c. Minimization of error risk d. Enforcement of model redundancy       

@@ -1,0 +1,1 @@
+Question 2  What is the estimated closing debt principal outstanding at the end of year 4?  a. 820,296    b. 822,122   c. 824,825   d. 826,020    

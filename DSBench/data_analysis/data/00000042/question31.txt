@@ -1,0 +1,1 @@
+31 Returns the natural logarithm of a number

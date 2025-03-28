@@ -1,0 +1,1 @@
+Question 22 What is the best possible score using the ‘Highs and Lows’ category? A. 46 B. 47 C. 48 D. 49 E. 50 F. 51 G. 52 H. 53 I. 54

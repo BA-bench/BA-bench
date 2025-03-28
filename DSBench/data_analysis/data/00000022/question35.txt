@@ -1,0 +1,1 @@
+Question 35 If the commitment fee is introduced, what will be the total size of the debt facility (rounded to the nearest dollar)? A. $241,794,916 B. $241,794,917 C. $241,794,918 D. $241,794,919 E. $241,794,920 F. $241,794,921 G. $241,794,922 H. $241,794,923 I. $241,794,924

@@ -1,0 +1,1 @@
+QUESTION 6 Based on the forecast in which quarter does the cash shortfall peak? a. Q4 2015 b. Q1 2016 c. Q3 2015 d. Q2 2016  

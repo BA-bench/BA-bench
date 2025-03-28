@@ -1,0 +1,1 @@
+Question 22 Which of the following stops had the highest average difference between the scheduled arrival time and the actual arrival time over the 5 days? (Average is calculated as the mean of the differences, you should not take the absolute value of the differences) [5 marks] A. RIH B. ROM C. YIH D. YOZ E. BIH F. BOA

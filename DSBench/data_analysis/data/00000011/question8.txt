@@ -1,0 +1,1 @@
+Question 8 Due to construction issues, all games at the Blue City may need to be moved to the Orange City. What will be the impact on the total expected flight cost if this happens? (For this question, make sure the start/end city has been reset to the Purple City.) a. $7,917 increase b. $9,723 decrease c. $21,462 decrease d. $32,256 decrease     

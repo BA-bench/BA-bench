@@ -1,0 +1,1 @@
+Question 19 What is the starting cash balance at Year 1? a. $728  b. $2027  c. ($43)  d. $457    

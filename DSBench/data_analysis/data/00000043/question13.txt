@@ -1,0 +1,1 @@
+Question 13 Which is the best suited formula for calculating ‘Deferred income tax assets’ in Year 2?  a. =Assumptions!F17*BalSheet!F4 b. =Assumptions!F17*IncState!F7 c. =Assumptions!F29*IncState!F7

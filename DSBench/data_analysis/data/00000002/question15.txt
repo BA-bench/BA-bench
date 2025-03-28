@@ -1,0 +1,1 @@
+Question 15 Estimate the future benefits, using the method you have selected in the previous question. Tom's Mining Equipment Inc has the following historical earnings: Year Earnings ($m) 1 $75,400 2 $65,200 3 $87,600 4 $90,500 5 $53,900 a. $73,340m b. $75,700m c. $93,150m d. $74,520m

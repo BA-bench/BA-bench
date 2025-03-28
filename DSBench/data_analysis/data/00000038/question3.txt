@@ -1,0 +1,1 @@
+QUESTION 3 What is the total electricity generated (post degradation) by all of the systems in the calendar year 2016?  a. 16,154,168 kWh b. 16,155,565 kWh c. 16,153,231 kWh d. 16,156,943 kWh

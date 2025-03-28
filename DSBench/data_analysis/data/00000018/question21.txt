@@ -1,0 +1,1 @@
+Question 21 What is the net present value of an investment in property 3? [3 marks] A. $104,239 B. $104,240 C. $104,241 D. $104,242 E. $104,243 F. $104,244 G. $104,245 H. $104,246 I. $104,247    

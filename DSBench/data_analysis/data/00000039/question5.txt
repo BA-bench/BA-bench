@@ -1,0 +1,1 @@
+QUESTION 5 What is the interest expense for the entire facility in the calendar year 2016? Select the closest option. a. $6.07m b. $6.11m c. $6.15m d. $6.19m  

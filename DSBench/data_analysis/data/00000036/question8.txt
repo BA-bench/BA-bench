@@ -1,0 +1,1 @@
+QUESTION 8 Instead of using "=RANDBETWEEN(1,10)", which of the following formulas will also produce a randomly generated integer between 1 and 10 inclusive, with approximately 10% probability for each integer?  a. =INT(10*RAND())+1 b. =ROUND(9*RAND(),0)+1 c. =ROUND(10*RAND(),0) d. =ROUND(10*RAND(),0)+1  

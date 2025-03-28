@@ -1,0 +1,1 @@
+15 Extracts data stored in a PivotTable

@@ -1,0 +1,1 @@
+Question 22 What is the NPV value of Property 4a less the NPV value of Property 4b? [3 marks] If 4b is greater in value enter a negative number. Please enter your answer to the nearest dollar (e.g. $1,000

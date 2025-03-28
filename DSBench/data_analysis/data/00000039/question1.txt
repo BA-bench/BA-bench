@@ -1,0 +1,1 @@
+QUESTION 1 What is the total interest paid on Tranche 3? Select the closest option. a. $3.9m b. $6.2m c. $4.6m d. $3.5m  

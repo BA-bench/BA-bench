@@ -1,0 +1,1 @@
+Question 27 What would the NPV (at 8%) of the operating costs for Property 3 be if the first payment each year was made in June and the second payment each year was made in December? [2 marks] A. $19,541 B. $19,542 C. $19,543 D. $19,544 E. $19,545 F. $19,546 G. $19,547 H. $19,548 I. $19,54

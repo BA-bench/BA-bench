@@ -1,0 +1,1 @@
+46 Returns the modified internal rate of return for a series of cash flows that occur at equal intervals but are not necessarily equal

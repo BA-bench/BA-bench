@@ -1,0 +1,1 @@
+Question 6 What is the total flight cost for all flights to games held between 11 May and 19 May (inclusive)? a. $126,630 b. $127,890 c. $128,940 d. $129,045     

@@ -1,0 +1,1 @@
+Question 22 Which function can be used to simplify the following formula? =IF(A1=1,C1+D1,IF(A1=2,C2+D2,IF(A1=3,C3+C1,IF(A1=4,C1+D2,NA())))) a. VLOOKUP b. OFFSET c. SUMIF d. CHOOSE

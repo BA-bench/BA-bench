@@ -1,0 +1,1 @@
+Question 2 What is the total expected flight cost for the Frogs? a. $15,246 b. $16,548 c. $24,612 d. $25,43

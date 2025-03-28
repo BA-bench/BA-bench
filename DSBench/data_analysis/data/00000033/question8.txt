@@ -1,0 +1,1 @@
+Question 8 For Loan 2, what proportion of total payments made over the life of the loan are interest payments, rounded to the nearest percent? [5 marks] a. 13% b. 14% c. 15% d. 16%           

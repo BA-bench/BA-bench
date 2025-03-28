@@ -1,0 +1,1 @@
+Question 33 Under the fixed arranging fee, what is the total debt drawdown required in the quarter ended June 2017 (rounded to the nearest dollar)? This should include drawdown for interest in the quarter. A. $16,745,197 B. $16,745,198 C. $16,745,199 D. $16,745,200 E. $16,745,201 F. $16,745,202 G. $16,745,203 H. $16,745,204 I. $16,745,205

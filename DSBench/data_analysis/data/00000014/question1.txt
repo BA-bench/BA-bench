@@ -1,0 +1,1 @@
+QUESTION 1 What is the total nominal capex for 2012 through 2021 (inclusive)? a) 593.0m b) 598.3m c) 525.0m d) 583.3m    

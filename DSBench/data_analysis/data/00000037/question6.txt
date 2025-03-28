@@ -1,0 +1,1 @@
+QUESTION 6 Which of the following is NOT the equivalent of entering 0.000001 into a cell?  a. =1%%% b. =1/10^6 c. =1E-6 d. =0.01^-3  

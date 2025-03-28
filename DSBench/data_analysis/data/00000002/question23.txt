@@ -1,0 +1,1 @@
+Question 23 Which of the following functions is not volatile in recent versions of Excel? a. OFFSET b. INDIRECT c. INDEX d. RAND

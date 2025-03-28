@@ -1,0 +1,1 @@
+QUESTION 16 Which of the following functions can be used in a simple formula to determine how many weekdays there are in any calendar month?  a. EOMONTH b. NETWORKDAYS c. DAYS360 d. WEEKDAY  

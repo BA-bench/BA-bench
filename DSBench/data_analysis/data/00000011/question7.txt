@@ -1,0 +1,1 @@
+Question 7 The organising committee want to assess the impact on the total flight cost if all teams start and end the tournament at Green City rather than Purple City. What is the total expected flight cost if this happens? a. $626,829 b. $663,978 c. $675,843 d. $716,41

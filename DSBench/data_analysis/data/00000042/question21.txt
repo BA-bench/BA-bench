@@ -1,0 +1,1 @@
+21 Converts a vertical range of cells to a horizontal range, or vice versa

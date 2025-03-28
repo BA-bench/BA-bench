@@ -1,0 +1,1 @@
+Question 23 How many departures and arrivals were exactly on schedule over the 5 days? [5 marks]

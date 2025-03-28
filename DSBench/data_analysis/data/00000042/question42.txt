@@ -1,0 +1,1 @@
+42 Returns the effective annual interest rate given the nominal annual interest rate and the number of compounding periods per year

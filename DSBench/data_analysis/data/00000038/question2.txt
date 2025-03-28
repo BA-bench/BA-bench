@@ -1,0 +1,1 @@
+QUESTION 2 What were the total purchasing and installation costs (in AUD) for the business? Pick the closest answer.  a. $21.0m b. $19.5m c. $18.5m d. $17.0m  

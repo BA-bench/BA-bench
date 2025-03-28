@@ -1,0 +1,1 @@
+Question 12 What is the total investment returns earned by Diana’s account over the life of the account? [3 marks] A. $941,447 B. $941,448 C. $941,449 D. $941,450 E. $941,451 F. $941,452 G. $941,453 H. $941,454 I. $941,45

@@ -1,0 +1,1 @@
+Question 47 What is the revenue received from Rev 5 (copper recycling) in the quarter ending December 2026? [2 marks] A. $463,964 B. $463,965 C. $463,966 D. $463,967 E. $463,968 F. $463,969 G. $463,970 H. $463,971 I. $463,972

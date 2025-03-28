@@ -1,0 +1,1 @@
+Question 1 What is the total expected number of flights the Elephants will need during the tournament? Hint: Remember that teams start and end at Purple City. a. 4 flights b. 5 flights c. 6 flights d. 7 flight

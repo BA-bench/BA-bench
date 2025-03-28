@@ -1,0 +1,1 @@
+QUESTION 9 Which of the following pairs of values are considered when assessing a product's Contribution Margin?  a. Gross Margin and Indirect Costs b. Revenue and Total Costs c. Processing Costs and Costs of Raw Materials d. Revenue and Direct Variable Costs  

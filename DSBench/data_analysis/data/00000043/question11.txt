@@ -1,0 +1,1 @@
+Question 11 Is the formula used to calculate each year’s ‘Dividends per share’ correct?   a. Yes b. No c. Not enough information    

@@ -1,0 +1,1 @@
+Question 43 What is the total revenue received from guaranteed waste gate fees (Rev 2)? [2 marks] A. $198,184,476 B. $198,184,477 C. $198,184,478 D. $198,184,479 E. $198,184,480 F. $198,184,481 G. $198,184,482 H. $198,184,483 I. $198,184,484

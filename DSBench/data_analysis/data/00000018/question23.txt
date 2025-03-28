@@ -1,0 +1,1 @@
+Question 23 Which property is highest in NPV value? [3 marks] A. Property 1 B. Property 2 C. Property 3 D. Property 4a E. Property 4

@@ -1,0 +1,1 @@
+26 Returns a number rounded to the nearest even integer away from zero

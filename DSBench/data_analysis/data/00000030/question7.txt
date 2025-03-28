@@ -1,0 +1,1 @@
+Question 7 If the Present Value calculation from the previous question is done using the XNPV function instead of the NPV function, by how many Euros does the Present Value decrease due to this change? Pick the closest answer.  a. 179,000 b. 180,000 c. 181,000 d. 182,000            

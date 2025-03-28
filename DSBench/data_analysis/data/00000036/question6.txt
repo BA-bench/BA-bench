@@ -1,0 +1,2 @@
+QUESTION 6 What does the following function return: OFFSET(A1,4,3,2,3)? a. Range D5:F6 b. The value in cell G7 c. The function will return a #VALUE error unless it is used in an array formula d. The function will return a #VALUE error as it has invalid parameters            
+ 

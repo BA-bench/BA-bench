@@ -1,0 +1,1 @@
+Question 45 How much cash is received from gate fees (Rev 1, Rev 2 and Rev 3) in the quarter ending September 2024? [3 marks] A. $4,283,407 B. $4,283,408 C. $4,283,409 D. $4,283,410 E. $4,283,411 F. $4,283,412 G. $4,283,413 H. $4,283,414 I. $4,283,415

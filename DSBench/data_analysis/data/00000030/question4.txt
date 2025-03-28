@@ -1,0 +1,1 @@
+Question 4 What is Net Profit Before Tax (Net Income) in Year 4 in nominal Euros?  a. 44.4m b. 44.8m c. 45.2m d. 45.6m           

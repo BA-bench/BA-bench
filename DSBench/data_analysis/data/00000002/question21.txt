@@ -1,0 +1,1 @@
+Question 21 Which of the following functions can be used in a simple formula that uses no other functions to return the first day of the following month? a. EOMONTH b. NETWORKDAYS c. DATE d. DATEVALUE

@@ -1,0 +1,1 @@
+Question 5 Which of these options is closest to the total amortization and depreciation expense for Year 3?  a. $4,550 b. $910 c. $1,005 d. $2,870

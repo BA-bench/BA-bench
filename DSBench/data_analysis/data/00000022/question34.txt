@@ -1,0 +1,1 @@
+Question 34 Under the variable arranging fee under consideration, what is the total arranging fee for the project (rounded to the nearest dollar)? A. $4,782,284 B. $4,782,285 C. $4,782,286 D. $4,782,287 E. $4,782,288 F. $4,782,289 G. $4,782,290 H. $4,782,291 I. $4,782,292   

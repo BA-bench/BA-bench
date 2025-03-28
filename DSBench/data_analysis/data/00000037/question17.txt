@@ -1,0 +1,1 @@
+QUESTION 17 Assuming a date is entered in cell A1, which of these formulas will always return the last day of the calendar quarter that A1 falls in?  a. =EOMONTH(A1,MOD(MONTH(A1),3)) b. =EOMONTH(A1,3-MOD(MONTH(A1),3)) c. =EOMONTH(A1,2-MOD(MONTH(A1)-1,3)) d. =EOMONTH(A1,3-INT(MONTH(A1)/3))  
