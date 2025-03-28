@@ -1,1 +1,0 @@
-22 Returns TRUE if the value is text
