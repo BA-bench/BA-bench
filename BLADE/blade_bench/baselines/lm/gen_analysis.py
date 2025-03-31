@@ -58,7 +58,7 @@ Here is the code template for the model function:
 def model(df: pd.DataFrame) -> Any:
     # Your code here
     return results
-```
+``` 
 
 Please return the conceptual variables, the transform function, and the model function in the format specified below:
 {format_instructions}
