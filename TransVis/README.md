@@ -1,4 +1,3 @@
-
 ### 目录
 
 1.  [引言](#1-引言)
@@ -14,7 +13,11 @@
     *   [函数：`extract_all_table_names(sql_query)`](#函数extract_all_table_namessql_query)
     *   [函数：`convert_viseval_to_ba_bench(...)`](#函数convert_viseval_to_ba_bench)
     *   [脚本执行与路径配置](#脚本执行与路径配置)
-6.  [数据格式建议修改](#6-数据格式建议修改)
+6.  [领域映射实现](#6-领域映射实现)
+    *   [映射表设计](#映射表设计)
+    *   [在转换脚本中的应用](#在转换脚本中的应用)
+    *   [映射表维护与扩展](#映射表维护与扩展)
+7.  [数据格式建议修改](#7-数据格式建议修改)
 
 ---
 
@@ -42,7 +45,7 @@
 *   `question`: Agent 需要理解和回答的自然语言问题或指令。
 *   `data_file`: 指向解决问题所需的主要数据文件的路径（字符串）。**注意**：此字段设计为单个字符串。
 *   `doc_file`: 指向可能需要的辅助文档。
-*   `answer`: 问题的“标准答案”。根据 `analysis_type` 不同，其内容可能是一个数值、一段文本、或者一个序列化的对象（如 JSON 字符串）。**关键是类型必须是 `str`**。
+*   `answer`: 问题的"标准答案"。根据 `analysis_type` 不同，其内容可能是一个数值、一段文本、或者一个序列化的对象（如 JSON 字符串）。**关键是类型必须是 `str`**。
 *   `data_domain`: 问题和数据所属的领域分类。
 *   `analysis_type`: 区分不同类型的问题，如涉及结构化答案、非结构化答案或图表生成。
 *   `origin_from`: 记录样本的原始来源，便于追溯。
@@ -64,7 +67,7 @@ VisEval 数据集本身提供了执行这些评估所需的 **输入和参考标
         *   `db_id` (str): 关联的数据库名称 (对应 `databases/` 下的子目录)。
         *   `nl_queries` (list[str]): **一个或多个** 自然语言查询，都指向同一个目标可视化。这是 Agent 的主要输入提示。
         *   `vis_query` (dict): 包含结构化的查询信息，特别是 `data_part['sql_part']` (str)，即用于从数据库提取数据的 SQL 查询。
-        *   `vis_obj` (dict): **核心部分**，一个描述 **目标可视化规范** 的 JSON 对象。包含图表类型 (`chart`)、轴信息 (`x_name`, `y_name`)、用于绘图的数据 (`x_data`, `y_data`)、分组/排序要求等。这可以被视为可视化的“标准答案”。
+        *   `vis_obj` (dict): **核心部分**，一个描述 **目标可视化规范** 的 JSON 对象。包含图表类型 (`chart`)、轴信息 (`x_name`, `y_name`)、用于绘图的数据 (`x_data`, `y_data`)、分组/排序要求等。这可以被视为可视化的"标准答案"。
         *   `chart` (str): 明确的图表类型 (如 "Pie", "Bar")。
         *   `hardness` (str): 难度级别。
         *   其他元数据，如 `irrelevant_tables`, `query_meta`。
@@ -130,7 +133,7 @@ def extract_all_table_names(sql_query):
 *   **目的**: 从给定的 SQL 查询字符串中提取所有引用的数据表名称
 *   **方法**: 主要使用 `re.findall` 和一个正则表达式来查找 `FROM` 或 `JOIN` 关键字后面的表名。该正则表达式设计得可以处理大小写和简单的 `AS` 别名
 *   **去重与保序**: 利用 `dict.fromkeys()` 方法可以有效地去除重复的表名，同时保持它们在 SQL 查询中出现的相对顺序
-*   **后备机制**: 如果主要的正​​则表达式没有找到任何匹配（例如，非常规的 SQL 结构），它会尝试一个更简单的模式，只查找 `FROM` 后面的第一个词作为表名。如果连这个也失败了，就打印警告并返回空列表
+*   **后备机制**: 如果主要的正则表达式没有找到任何匹配（例如，非常规的 SQL 结构），它会尝试一个更简单的模式，只查找 `FROM` 后面的第一个词作为表名。如果连这个也失败了，就打印警告并返回空列表
 #### 5.2. 函数：`convert_viseval_to_ba_bench(...)`
 ```python
 def convert_viseval_to_ba_bench(input_json_path, output_json_path, base_data_dir):
@@ -235,7 +238,7 @@ def convert_viseval_to_ba_bench(input_json_path, output_json_path, base_data_dir
 *   **错误处理与健壮性**: 代码包含对文件未找到、JSON 解析错误、关键信息缺失、无法提取表名、无法创建目录和无法写入文件等情况的基本处理和警告/错误提示
 *   **JSON 输出**: 使用 `json.dump` 将包含所有样本的 Python 列表写入目标文件，`indent=4` 参数使输出的 JSON 文件具有良好的缩进格式，便于人工阅读；`ensure_ascii=False` 对于处理可能存在于数据中的非英文字符重要
 #### 5.3. 脚本执行与路径配置
-脚本末尾的“使用示例”部分负责配置输入输出路径并调用转换函数：
+脚本末尾的"使用示例"部分负责配置输入输出路径并调用转换函数：
 ```python
 # --- 使用示例 ---
 # 假设 VisEval 数据集在 VisEval/visEval_dataset
@@ -263,7 +266,46 @@ print("\n所有处理结束。")
 *   **路径假设**: 这部分代码假设 `VisEval/visEval_dataset` 目录和 `TransVis` 目录都位于运行 Python 脚本时的工作区根目录下
 *   **配置**: 它设置了输入 JSON 文件 (`visEval.json`) 的路径、VisEval 数据集的基础目录 (`viseval_base_dir`，用于查找 `databases/` 下的文件)、输出目录 (`TransVis`) 和输出文件名
 *   **执行**: 最后调用 `convert_viseval_to_ba_bench` 函数，传入这些配置好的路径来启动转换过程
-## 6. 数据格式建议修改
+### 6. 领域映射实现
+为了提高 BA-bench 数据集的质量和实用性，实现了一个灵活的映射机制，将 VisEval 数据集中的数据库 ID (`db_id`) 自动映射到相应的业务领域，从而准确填充 `data_domain` 字段。这一机制避免了使用通用的"General Visualization"作为所有样本的领域标签，使得数据集更加精细和有意义。
+#### 映射表设计
+创建了一个专门的映射模块 `db_domain_mapping.py`，其核心是一个将数据库 ID 映射到业务领域的字典。映射表的设计考虑了以下几点：
+1. **领域划分**: 基于数据库名称和内容的分析，我们将数据库分为多个业务领域，如教育 (Education)、金融 (Finance)、体育 (Sports)、医疗 (Healthcare) 等。
+2. **结构组织**: 映射表按照领域分类组织，使用注释清晰标记每个分类，便于查找和维护。
+3. **默认值处理**: 对于映射表中未覆盖的数据库 ID，提供一个默认领域 (`DEFAULT_DOMAIN = "General Visualization"`)。
+4. **封装访问**: 通过 `get_domain_for_db_id(db_id)` 函数封装对映射表的访问
+
+映射表示例（部分）：
+
+```python
+DB_DOMAIN_MAPPING = {
+    # 教育相关
+    "activity_1": "Education",
+    "student_1": "Education",
+    "university_basketball": "Education",
+    # ...
+    
+    # 金融相关
+    "small_bank_1": "Finance",
+    "insurance_policies": "Finance",
+    "loan_1": "Finance",
+    # ...
+    
+    # 其他领域...
+}
+```
+
+#### 映射表维护与扩展
+映射表的设计考虑了未来的维护和扩展需求：
+1. **分离关注点**: 将映射逻辑与转换逻辑分离，使得修改领域映射不需要改动核心转换代码。
+2. **易于扩展**: 要添加新的数据库-领域映射，只需在 `DB_DOMAIN_MAPPING` 字典中添加新的键值对。例如：
+```python
+# 添加新的映射
+DB_DOMAIN_MAPPING["new_database_id"] = "New Domain"
+```
+3. **批量更新**: 如果需要重新分类或调整领域名称，只需修改映射表中的值，无需更改转换逻辑。
+
+### 7. 数据格式建议修改
 由于VisEval中存在多个自然语言问题对应同一数据集及数据处理方式，同时一问题可能对应多个数据集，而结果为对于数据图表的描述，建议修改现有数据格式如下：
 * question字段：str->list[str]
 * data_file字段：str->list[str]

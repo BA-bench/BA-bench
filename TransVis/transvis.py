@@ -2,6 +2,16 @@ import json
 import re
 import os
 
+# 导入数据库-领域映射
+try:
+    from db_domain_mapping import get_domain_for_db_id
+except ImportError:
+    # 如果导入失败，定义一个简单的默认函数
+    def get_domain_for_db_id(db_id):
+        """如果映射模块不可用，返回默认领域"""
+        return "General Visualization"
+    print("警告: 无法导入 db_domain_mapping 模块，将使用默认领域。")
+
 def extract_all_table_names(sql_query):
     """
     从 SQL 查询中提取 FROM 和 JOIN 子句后的所有表名。
@@ -81,6 +91,9 @@ def convert_viseval_to_ba_bench(input_json_path, output_json_path, base_data_dir
             for name in all_table_names
         ]
 
+        # 使用映射函数获取该数据库对应的业务领域
+        data_domain = get_domain_for_db_id(db_id)
+
         for nl_idx, nl_query in enumerate(nl_queries):
             ba_bench_sample = {
                 'id': f"VisEval_{original_id}_{nl_idx}",
@@ -89,7 +102,7 @@ def convert_viseval_to_ba_bench(input_json_path, output_json_path, base_data_dir
                 'data_file': primary_data_file_path,
                 'doc_file': "None",
                 'answer': json.dumps(vis_obj), # 将 vis_obj 序列化为 JSON 字符串
-                'data_domain': "General Visualization", # 占位符
+                'data_domain': data_domain,  # 使用映射表中查找到的领域
                 'analysis_type': "Chart problems",
                 'origin_from': ['VisEval', original_id],
                 'additional_information': {
@@ -129,32 +142,40 @@ def convert_viseval_to_ba_bench(input_json_path, output_json_path, base_data_dir
 
 
 # --- 使用示例 ---
-# 假设你的 VisEval 数据集解压在工作区的 VisEval/visEval_dataset 目录下
-# 并且此脚本位于工作区的 TransVis 目录下
+# 获取当前脚本所在目录 (TransVis)
+script_dir = os.path.dirname(os.path.abspath(__file__))
+# 获取工作区根目录 (BA-bench)
+workspace_dir = os.path.dirname(script_dir)
 
-# 输入文件路径 (相对于工作区根目录)
-input_file = 'VisEval/visEval_dataset/visEval.json'
-# VisEval 数据集的基础目录 (相对于工作区根目录)
-viseval_base_dir = 'VisEval/visEval_dataset'
-# 输出目录 (此脚本所在的目录，相对于工作区根目录)
-output_dir = 'TransVis'
+# 输入文件路径 (使用绝对路径)
+input_file = os.path.join(workspace_dir, 'VisEval', 'visEval_dataset', 'visEval.json')
+# VisEval 数据集的基础目录 (使用绝对路径)
+viseval_base_dir = os.path.join(workspace_dir, 'VisEval', 'visEval_dataset')
+# 输出目录 (此脚本所在目录)
+output_dir = script_dir
 # 输出文件名
 output_filename = 'ba_bench_viseval.json'
 # 组合输出路径 (确保跨平台兼容)
 output_file = os.path.join(output_dir, output_filename).replace('\\', '/')
 
+# 显示所有路径 (调试用)
+print(f"工作区目录: {workspace_dir}")
+print(f"脚本目录: {script_dir}")
+print(f"输入文件: {input_file}")
+print(f"数据集目录: {viseval_base_dir}")
+print(f"输出文件: {output_file}")
 
 # 执行转换
-print(f"开始转换: {input_file} -> {output_file}")
+print(f"\n开始转换: {input_file} -> {output_file}")
 convert_viseval_to_ba_bench(input_file, output_file, viseval_base_dir)
 
 # # 你也可以选择处理 single 或 multiple 文件，并保存到 TransVis 目录：
-# input_single = 'VisEval/visEval_dataset/visEval_single.json'
+# input_single = os.path.join(workspace_dir, 'VisEval', 'visEval_dataset', 'visEval_single.json')
 # output_single = os.path.join(output_dir, 'ba_bench_viseval_single.json').replace('\\', '/')
 # print(f"\n开始转换: {input_single} -> {output_single}")
 # convert_viseval_to_ba_bench(input_single, output_single, viseval_base_dir)
 
-# input_multiple = 'VisEval/visEval_dataset/visEval_multiple.json'
+# input_multiple = os.path.join(workspace_dir, 'VisEval', 'visEval_dataset', 'visEval_multiple.json')
 # output_multiple = os.path.join(output_dir, 'ba_bench_viseval_multiple.json').replace('\\', '/')
 # print(f"\n开始转换: {input_multiple} -> {output_multiple}")
 # convert_viseval_to_ba_bench(input_multiple, output_multiple, viseval_base_dir)
