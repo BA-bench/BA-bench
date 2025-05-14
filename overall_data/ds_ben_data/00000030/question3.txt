@@ -1,0 +1,1 @@
+Question 3 What is the Depreciation for both asset classes combined in Year 6 in nominal Euros?  a. 268.3m b. 269.0m c. 270.7m d. 271.5m 

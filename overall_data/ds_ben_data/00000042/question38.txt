@@ -1,0 +1,1 @@
+38 Returns a random draw from a uniform distribution between two specified numbers

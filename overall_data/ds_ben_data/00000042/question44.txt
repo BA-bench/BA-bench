@@ -1,0 +1,1 @@
+44 Returns the interest payment for a specified period of an annuity

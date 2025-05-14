@@ -1,0 +1,1 @@
+QUESTION 7 What debtor balance should the team be aiming for on 30 June 2014 if it aims to reach a set KPI of 43 Debtor days for the 9 month period ending 30 June 2014, based on the average of the period opening and period closing debtor balance? a. $540,000 b. $560,000 c. $580,000 d. $590,000  

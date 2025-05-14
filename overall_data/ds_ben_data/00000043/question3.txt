@@ -1,0 +1,1 @@
+Question 3 How many rows in the ‘Long term debt – Debt #2’ section have errors?  a. 0 b. 1 c. 2 d. More than 2     

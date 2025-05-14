@@ -1,0 +1,1 @@
+Question 27 Grouping the turns into games, you can identify the highest game score achieved. How many of the 3,000 games achieve this maximum score? Remember that no scoring category may be used more than once per game. A. 4 B. 5 C.6 D. 7 E. 8 F. 9 G. 10 H. 11 I. 12  

@@ -1,0 +1,1 @@
+QUESTION 9 In Excel, which of the following is not a valid name to use as a Defined Name?  a. SUM b. ME  c. R d. N  

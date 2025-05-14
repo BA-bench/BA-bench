@@ -1,0 +1,1 @@
+QUESTION 5 How many invoices did sales person Sally create over the analysis period?  a. 723 b. 985 c. 318 d. 650  

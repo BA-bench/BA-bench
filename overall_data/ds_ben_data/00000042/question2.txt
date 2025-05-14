@@ -1,0 +1,1 @@
+2 Returns a specified number of characters from the beginning of a text string

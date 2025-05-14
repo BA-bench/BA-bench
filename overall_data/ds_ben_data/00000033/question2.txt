@@ -1,0 +1,1 @@
+Question 2 For Loan 1, the total interest paid over the life of the loan is closest to:  a. $41,560 b. $41,570 c. $41,580 d. $41,590 

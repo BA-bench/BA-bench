@@ -1,0 +1,1 @@
+Question 19 What are total revenues less total costs for Property 4a? [2 marks] A. $207,819 B. $207,820 C. $207,821 D. $207,822 E. $207,823 F. $207,824 G. $207,825 H. $207,826 I. $207,827     

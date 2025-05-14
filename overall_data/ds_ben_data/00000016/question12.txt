@@ -1,0 +1,1 @@
+Question 12 Company H is now paid on Tuesdays instead of Wednesdays (with the same adjustments for the first and last 10 days of a month). What is the total cash received in $m from all companies between 1 Jun 2018 and 31 Dec 2018 (inclusive)? Please enter your answer in millions to two decimal places. Use a period “.” as the decimal point character. [4 marks]  

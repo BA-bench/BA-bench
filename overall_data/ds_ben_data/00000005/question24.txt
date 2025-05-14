@@ -1,0 +1,1 @@
+Question 24 Looking at the turns in the order listed in the Workbook, which turn number is the 50th turn to qualify for ‘All The Numbers’? A. 2,970 B. 2,971 C. 3,033 D. 3,148 E. 3,205 F. 3,260 G. 3,458 H. 3,620 I. 3,674

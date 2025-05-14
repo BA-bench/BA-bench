@@ -1,0 +1,1 @@
+Question 4 If the apartment was sold after 2 years, what is the expected proceeds returned after satisfying CGT and repaying any outstanding debt?   a. $930,341    b. $930,343    c. $930,345    d. $930,347

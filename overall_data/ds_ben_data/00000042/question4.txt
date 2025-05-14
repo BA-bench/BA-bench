@@ -1,0 +1,1 @@
+4 Returns a specified number of characters from a text string, starting at a specified position

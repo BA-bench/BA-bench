@@ -1,0 +1,1 @@
+49 Returns the internal rate of return for a series of cash flows that are not necessarily equal or periodic

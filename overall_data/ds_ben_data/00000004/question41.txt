@@ -1,0 +1,1 @@
+Question 41 What is the total amount of additional waste (in tonnes) received by the plant? [3 marks] A. 82,948 B. 82,949 C. 82,950 D. 82,951 E. 82,952 F. 82,953 G. 82,954 H. 82,955 I. 82,956

@@ -1,0 +1,1 @@
+QUESTION 12 Which month had the highest revenue?  a. March b. April c. May d. June  

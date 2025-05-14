@@ -1,0 +1,1 @@
+Question 10 When valuing the stock of a real estate holding company, most likely the Financial Modeler will give the greatest weight to which method? a. Capitalization of earnings method b. Book value method c. Adjusted book value method d. Rule of thumb    

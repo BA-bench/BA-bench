@@ -1,0 +1,1 @@
+Question 8 What is the cash received in $m from Company H on all the Tuesdays in 2018? [4 marks] A. $16.11m B. $17.90m C. $19.69m D. $21.48m E. $23.27m F. $25.06m G. $26.85m H. $28.64m I. $30.43m  

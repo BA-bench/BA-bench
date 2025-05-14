@@ -1,0 +1,1 @@
+QUESTION 4 What impact does the change in taxation rate have on the opening deferred tax balance for 2016? a) 2.2m b) 12.6m c) 7.5m d) 9.7

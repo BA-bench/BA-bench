@@ -1,0 +1,1 @@
+QUESTION 9 What is the rank of sales persons from highest to lowest based on the number of invoices written during the month of May?  a. Kelly, Sally, Amy, Wendel, Benny b. Kelly, Wendel, Amy, Sally, Benny c. Kelly, Amy, Wendel, Sally, Benny d. Kelly, Amy, Sally, Benny, Wendel  

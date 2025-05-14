@@ -1,0 +1,1 @@
+QUESTION 1 You have been asked to prepare a DuPont analysis to analyze 'Return on Equity'. Which of the following afflictions is a DuPont analysis unlikely to uncover?  a. Problems with slow moving stock b. Problems in overgrown direct and indirect costs c. Higher than acceptable leverage d. An overstatement in the company's Balance Sheet  

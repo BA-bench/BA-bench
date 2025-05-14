@@ -1,0 +1,41 @@
+INTRODUCTION
+You have been provided with daily weather data (rainfall, minimum temperature, maximum temperature) 
+for the year 2010 for 18 major U.S. cities. 
+You have also been provided with Latitude, Longitude, Elevation and 2010 Population data for each of the 
+18 cities. 
+Full details can be found in the ‘Cities’ worksheet of the provided workbook. 
+TASK 
+Bring this data to life.  Show the patterns and information hiding in it.  Build a model in Excel, interactive if 
+you wish, that lets the user see the data in an interesting way. 
+Create an easy and fun way for the user to explore the weather data for their chosen city or cities.  There 
+are no fixed guidelines for what you should or should not focus on.  Each judge will rank their top five 
+favourite models based on their own subjective view of what they like. 
+LOCATION DATA 
+You have also been provided with a JPG map file showing a blank outline of the 48 contiguous US states, 
+with the location of the 18 cities marked by number (miniature version included below).  You may or may 
+not choose to make use of this image in your work. 
+Alternatively, you may wish to use the Latitude and Longitude co-ordinates provided with some of Excel's 
+newer map tools. 
+Or you may choose to not incorporate location data, or incorporate it in some other way.  It is entirely up to 
+you.  Good luck! 
+ 
+Index  City            State
+1      Atlanta         Georgia
+2      Boston          Massachusetts
+3      Chicago         Illinois
+4      Dallas          Texas
+5      Denver          Colorado
+6      Detroit         Michigan
+7      Houston         Texas
+8      Kansas City     Missouri
+9      Los Angeles     California
+10     Miami           Florida
+11     Minneapolis     Minnesota
+12     New Orleans     Louisiana
+13     New York        New York
+14     Phoenix         Arizona
+15     Salt Lake City  Utah
+16     San Francisco   California
+17     Seattle         Washington
+18     Washington      DC
+

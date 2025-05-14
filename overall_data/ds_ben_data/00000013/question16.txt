@@ -1,0 +1,1 @@
+Question 16 On the 6th November, the Red line Inbound was scheduled to arrive at station J at 8:43 a.m. When did this service actually arrive? [4 marks] A. 8:42 a.m. B. 8:43 a.m. C. 8:44 a.m. D. 8:45 a.m. E. 8:46 a.m. F. 8:47 a.m. G. 8:48 a.m. H. 8:49 a.m. I. 8:50 a.m

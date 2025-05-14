@@ -1,0 +1,1 @@
+Question 4 The most conservative ratio in measuring a company’s solvency is? a. Current ratio b. Quick ratio c. Cash ratio d. Turnover ratio

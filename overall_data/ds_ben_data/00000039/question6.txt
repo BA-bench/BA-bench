@@ -1,0 +1,1 @@
+QUESTION 6 On what quarter end date does the closing balance of the facility drop from above $40m to below $40m?  a. 30 September 2018 b. 31 December 2018 c. 31 March 2019 d. 30 June 2020

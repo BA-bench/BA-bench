@@ -1,0 +1,1 @@
+QUESTION 2 What is the closing balance for the accounting asset schedule in 2017? a) 298.3m b) 286.7m c) 370.0m d) 331.0

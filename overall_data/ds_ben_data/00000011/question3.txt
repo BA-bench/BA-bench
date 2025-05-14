@@ -1,0 +1,1 @@
+Question 3 What is the total expected flight cost for the competition? a. $587,223 b. $632,499 c. $664,713 d. $666,414     

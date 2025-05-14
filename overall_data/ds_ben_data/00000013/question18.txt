@@ -1,0 +1,1 @@
+Question 18 What is the earliest departure time of any service on the 9th of November? [4 marks] A. 6:56 a.m. B. 6:57 a.m. C. 6:58 a.m. D. 6:59 a.m. E. 7:00 a.m. F. 7:01 a.m. G. 7:02 a.m. H. 7:03 a.m. I. 7:04 a.m

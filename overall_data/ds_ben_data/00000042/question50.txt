@@ -1,0 +1,1 @@
+50 Returns the present value of a series of unequal future cash flows that occur at equal intervals starting one period in the future

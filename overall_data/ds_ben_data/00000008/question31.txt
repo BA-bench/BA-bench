@@ -1,0 +1,1 @@
+Question 31 What is the total revenue (in $) for Hub 2 in Scenario 1b? [4 marks] A. $5,194,000 B. $5,196,000 C. $5,198,000 D. $5,200,000 E. $5,202,000 F. $5,204,000 G. $5,206,000 H. $5,208,000 I. $5,210,000   

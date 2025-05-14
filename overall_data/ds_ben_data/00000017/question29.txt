@@ -1,0 +1,1 @@
+Question 29 What is the interest rate for the Senior 1 loan in the period ending 31 December 2019? [3 marks] A. 2.21% B. 2.22% C. 2.23% D. 2.24% E. 2.25% F. 2.26% G. 2.27% H. 2.28% I. 2.29

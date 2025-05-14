@@ -1,0 +1,1 @@
+Question 26 If the revenues for all properties were paid monthly, what would be the total NPV (at 8%) of Properties 1, 2 and 3? [2 marks] A. $268,662 B. $268,663 C. $268,664 D. $268,665 E. $268,666 F. $268,667 G. $268,668 H. $268,669 I. $268,67

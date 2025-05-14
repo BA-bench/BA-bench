@@ -1,0 +1,1 @@
+Question 21 On the 10th of November on the blue line, how many departures/arrivals were ahead of schedule? [4 marks] A. 46 B. 47 C. 48 D. 49 E. 50 F. 51 G. 52 H. 53 I. 54

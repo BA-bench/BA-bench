@@ -1,0 +1,1 @@
+Question 6 What is the cash received in $m from Company F on all the Fridays in 2018? [4 marks] A. $69.42m B. $74.76m C. $80.10m D. $85.44m E. $90.78m F. $96.12m G. $101.46m H. $106.80m I. $112.14m  

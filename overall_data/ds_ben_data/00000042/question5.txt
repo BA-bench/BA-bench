@@ -1,0 +1,1 @@
+5 Capitalizes the first letter of each word in a text string and converts all other letters to lowercase letters

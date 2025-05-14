@@ -1,0 +1,1 @@
+Question 15 For one day, what is the total number of stops scheduled for 23 minutes past the hour? [3 marks] A. 31 B. 32 C. 33 D. 34 E. 35 F. 36 G. 37 H. 38 I. 39  

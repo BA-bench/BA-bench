@@ -1,0 +1,1 @@
+Question 42 How many tonnes of waste is sent to landfill in the quarter ending March 2020? [4 marks] A. 16,327 B. 16,328 C. 16,329 D. 16,330 E. 16,331 F. 16,332 G. 16,333 H. 16,334 I. 16,335 

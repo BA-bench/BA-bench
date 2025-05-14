@@ -1,0 +1,1 @@
+Question 1  What is the Cash Flow Available for Debt Service at the end of the first year?   a. 17,259    b. 18,992   c. 19,211   d. 19,396    

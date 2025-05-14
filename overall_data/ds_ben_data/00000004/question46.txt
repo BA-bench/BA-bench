@@ -1,0 +1,1 @@
+Question 46 What is the inflation index applied to Rev 4 (silver recycling) in the quarter ending September 2026? Round your answer to the nearest 0.1% [2 marks] A. 123.1% B. 123.2% C. 123.3% D. 123.4% E. 123.5% F. 123.6% G. 123.7% H. 123.8% I. 123.9%   

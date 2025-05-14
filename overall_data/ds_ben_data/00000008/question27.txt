@@ -1,0 +1,1 @@
+Question 27 What is the total transport cost (in $) for Hub 1 in Scenario 1a? [3 marks] A. $218,854 B. $218,855 C. $218,856 D. $218,857 E. $218,858 F. $218,859 G. $218,860 H. $218,861 I. $218,862  

@@ -1,0 +1,2 @@
+QUESTION 11 Over the entire analysis period, what is the rank of sales persons according to the dollar value of discounts given, from most discounts to least discounts?  a. Kelly, Amy, Wendel, Sally, Benny b. Kelly, Wendel, Amy, Benny, Sally c. Amy, Wendel, Kelly, Benny, Sally d. Amy, Kelly, Wendel, Sally, Benny            
+ 

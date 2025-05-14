@@ -1,0 +1,1 @@
+Question 1 For Loan 1, how many of the 72 Regular Payment Dates are not Business Days?  a. 18 b. 21 c. 24 d. 27 

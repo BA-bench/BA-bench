@@ -1,0 +1,1 @@
+Question 3 Which day of the week has the highest average usage?  a.  Sunday b.  Monday c.  Tuesday d.  Wednesday 

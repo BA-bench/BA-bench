@@ -1,0 +1,1 @@
+Question 21 What is the most common score that would be attained if all 6,000 turns were scored under the ‘Summation’ category? A. 16 B. 17 C. 18 D. 19 E. 20 F. 21 G. 22 H. 23 I. 24  

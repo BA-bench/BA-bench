@@ -1,0 +1,1 @@
+QUESTION 8 A company incurs $10,000 in interest expense on loaned funds it has used to purchase fixtures and fittings for a new office space. Which section of the Cash Flow statement would you expect to see this interest expense reported?  a. Operating b. Investing c. Financing d. No section as the interest amount will likely be capitalized  

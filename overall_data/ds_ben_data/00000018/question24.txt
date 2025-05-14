@@ -1,0 +1,1 @@
+Question 24 Which properties should the company invest in subject to the constraint on purchase price in order to maximise their increase in net present value? [4 marks] State your answer in numerical order separated by commas and with NO spaces (e.g. 1,4b

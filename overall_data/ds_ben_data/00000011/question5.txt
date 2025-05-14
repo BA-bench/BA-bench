@@ -1,0 +1,1 @@
+Question 5 What is the total flight cost for all flights from Blue City? a. $59,871 b. $60,690 c. $61,803 d. $62,16

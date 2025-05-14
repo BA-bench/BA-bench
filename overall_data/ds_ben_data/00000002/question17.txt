@@ -1,0 +1,1 @@
+Question 17 Which Excel feature may cause large financial models to recalculate slowly? a. Array formulas b. Volatile functions c. Data tables d. All of the above

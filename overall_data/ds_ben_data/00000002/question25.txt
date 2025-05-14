@@ -1,0 +1,1 @@
+Question 25 By default, Excel VBA passes arguments to functions and procedures by? a. Reference b. Value c. Absolute d. Relative

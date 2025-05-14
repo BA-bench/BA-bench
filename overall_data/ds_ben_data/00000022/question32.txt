@@ -1,0 +1,1 @@
+Question 32 What is the total operating cash flow (including house sales, constructions costs and other costs) over the project?  A. $72,110,000 B. $72,111,000 C. $72,112,000 D. $72,113,000 E. $72,114,000 F. $72,115,000 G. $72,116,000 H. $72,117,000 I. $72,118,000   

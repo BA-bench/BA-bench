@@ -1,0 +1,1 @@
+QUESTION 7 With which of the following features or functions might you experience backward compatibility problems with between Excel 2010 and Excel 2003?  a. Charting on two simultaneous axes b. SUMIF c. COUNTIFS d. INDIRECT             

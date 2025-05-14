@@ -1,0 +1,2 @@
+Question 40 To make their bid more appealing, MORE are considering setting their required IRR to 12% to increase the price that can be paid to the council for the land. What land purchase price will achieve an equity IRR of 12% (using the XIRR function)? Round your answer to the nearest $100,000.
+Type in your answer, without any dollar signs or thousands separator. E.g. $1,000,000 should be typed as 1000000. Remember to round your answer to the nearest $100,000!

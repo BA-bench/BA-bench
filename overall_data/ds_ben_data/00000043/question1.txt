@@ -1,0 +1,1 @@
+Question 1 How many rows have formula errors in the ‘Cash available for debt repayment’ section of the Debt calculations worksheet? a. 0 b. 1 c. 2 d. 2   

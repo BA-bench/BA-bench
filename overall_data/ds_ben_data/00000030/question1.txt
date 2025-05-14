@@ -1,0 +1,1 @@
+Question 1 What is the nominal US$:Euro exchange rate in year 7?  a. 1.297 b. 1.308 c. 1.312 d. 1.324 

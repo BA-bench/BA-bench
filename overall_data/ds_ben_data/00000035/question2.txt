@@ -1,0 +1,1 @@
+QUESTION 2 What is closest to the forecast closing accounts payable in December 2015? a. $647,000 b. $764,000 c. $772,000 d. $779,000  

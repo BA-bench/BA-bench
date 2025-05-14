@@ -1,0 +1,1 @@
+Question 10 What is the final closing balance of Charlie’s account? [3 marks] A. $512,035 B. $512,036 C. $512,037 D. $512,038 E. $512,039 F. $512,040 G. $512,041 H. $512,042 I. $512,04

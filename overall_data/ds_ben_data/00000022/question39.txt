@@ -1,0 +1,2 @@
+Question 39 If the alternative equity drawdown approach is used, what will be the total size of the debt facility? Round your answer to the nearest dollar.
+Type in your answer, without any dollar signs or thousands separator. E.g. $1,000,000 should be typed as 1000000

@@ -1,0 +1,1 @@
+Question 39 Using Profile 5 of cash available from operations, what is the maximum overdraft balance drawn at any point in time? [5 marks] A. $1,252,176 B. $1,252,177 C. $1,252,178 D. $1,252,179 E. $1,252,180 F. $1,252,181 G. $1,252,182 H. $1,252,183 I. $1,252,18

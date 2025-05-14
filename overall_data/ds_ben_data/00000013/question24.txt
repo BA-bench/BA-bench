@@ -1,0 +1,1 @@
+Question 24 What was the longest a trip took (in minutes) on the Yellow line in either direction over the 5 days? (i.e. from H-Z or Z-H) [5 marks] 

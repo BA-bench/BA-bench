@@ -1,0 +1,1 @@
+Question 12 Which one of the following is not a general category of normalized adjustments? a. Removal of excess cash b. Inventory adjustment when inventory is recorded on a FIFO basis c. Reasonable compensation for owners d. Bad debt adjustment for a significant write off due to an unexpected bankruptcy filing by a major customer

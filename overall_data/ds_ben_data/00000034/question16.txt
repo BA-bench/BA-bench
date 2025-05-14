@@ -1,0 +1,1 @@
+QUESTION 16 What quantity of item 3 was sold by sales persons Benny and Kelly together during the month of June?  a. 9 b. 116 c. 134 d. 475

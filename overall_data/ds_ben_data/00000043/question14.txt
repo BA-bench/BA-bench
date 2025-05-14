@@ -1,0 +1,1 @@
+Question 14 How many rows in the ‘Cash flow for operating activities’ section have errors?  a. 2 b. 4 c. 5 d. More than 5    

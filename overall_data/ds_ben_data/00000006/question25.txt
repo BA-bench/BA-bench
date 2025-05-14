@@ -1,0 +1,1 @@
+Question 25 Under the points allocation method, how many parties did not win any Districts? Type in your answer

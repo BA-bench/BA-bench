@@ -1,0 +1,1 @@
+Question 5 Based on your historic electricity usage, what would your annual cost of electricity be under the "Monthly Flex" contract?  a.  $1350.73 b.  $1421.82 c.  $1450.26 d.  $1493.77 

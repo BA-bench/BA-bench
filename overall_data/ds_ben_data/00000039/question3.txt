@@ -1,0 +1,1 @@
+QUESTION 3 What is the size of the quarterly debt service for Tranche 2 on 31 December 2020? Select the closest option. a. $0.83m b. $1.85m c. $1.86m d. $1.88m

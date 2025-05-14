@@ -1,0 +1,1 @@
+40 Returns the depreciation of an asset for a specified period using the fixed-declining balance method

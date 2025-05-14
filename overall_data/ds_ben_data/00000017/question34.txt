@@ -1,0 +1,1 @@
+Question 34 What is the target shareholder loan balance on 30 June 2025? [5 marks] A. $1,689,272 B. $1,689,273 C. $1,689,274 D. $1,689,276 E. $1,689,275 F. $1,689,277 G. $1,689,278 H. $1,689,279 I. $1,689,280    

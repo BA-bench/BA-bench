@@ -1,0 +1,1 @@
+Question 20 If all turns were scored as “High and Often” what would the total score for all 6,000 turns be? A. 52,245 B. 52,246 C. 52,247 D. 52,248 E. 52,249 F. 52,250 G. 52,251 H. 52,252 I. 52,253

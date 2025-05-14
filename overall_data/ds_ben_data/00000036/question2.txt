@@ -1,0 +1,1 @@
+QUESTION 2 Which of the following does not act to impact a business's Free Cash Flow for the Firm? a. Changes in the Net Working Capital position  b. A loan amortization payment falling due  c. Interest rate increases on its debt facilities during the year d. A reduction in the tax rate  

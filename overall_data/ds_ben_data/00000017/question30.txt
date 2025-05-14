@@ -1,0 +1,1 @@
+Question 30 What is the total interest paid for the Senior 1 loan? [3 marks] A. $1,613,196 B. $1,613,197 C. $1,613,198 D. $1,613,199 E. $1,613,200 F. $1,613,201 G. $1,613,202 H. $1,613,203 I. $1,613,204  

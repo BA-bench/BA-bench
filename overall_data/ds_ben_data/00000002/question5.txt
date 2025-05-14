@@ -1,0 +1,1 @@
+Question 5 Which method combines the income and asset based approaches to arrive at a value of a closely held business? a. Book value b. Discounted cash flows c. Guideline public companies d. Excess earnings method

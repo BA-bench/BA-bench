@@ -1,0 +1,1 @@
+Question 16 What are the total revenues for Property 1? [1 mark] A. $236,528 B. $236,529 C. $236,530 D. $236,531 E. $236,532 F. $236,533 G. $236,534 H. $236,535 I. $236,53

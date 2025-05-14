@@ -1,0 +1,1 @@
+QUESTION 5 What is the deferred tax balance as at 2028? a) 79.0m Asset b) 79.0m Liability c) 80.2m Asset d) 80.2m Liability       

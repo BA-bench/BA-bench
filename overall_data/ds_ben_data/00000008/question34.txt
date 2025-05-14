@@ -1,0 +1,1 @@
+Question 34 What is the difference in the total transport cost (in $) between Scenario 2a and Scenario 2b (both including all hubs)? State your answer as a positive number to the nearest dollar (e.g. $10,000) [5 marks]  

@@ -1,0 +1,1 @@
+Question 5 What is the cash received in $m from Company E between 2 Feb 2018 and 20 Aug 2018 (inclusive)? [3 marks] A. $55.27m B. $55.28m C. $55.29m D. $55.30m E. $55.31m F. $55.32m G. $55.33m H. $55.34m I. $55.35m

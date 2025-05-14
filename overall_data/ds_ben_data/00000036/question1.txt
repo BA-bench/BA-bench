@@ -1,0 +1,1 @@
+QUESTION 1 If an $18,000 asset is depreciated using the diminishing balance (double declining) method, and assuming an effective life of 5 years, which is closest to the asset's book value after 3 years? a. $12,000 b. $8,500 c. $4,000 d. $2,000  

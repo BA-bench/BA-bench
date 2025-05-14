@@ -1,0 +1,1 @@
+Question 8 What are the total investment returns of Bob’s account between 2019 and 2023 inclusive? [3 marks] A. $4,759 B. $4,760 C. $4,761 D. $4,762 E. $4,763 F. $4,764 G. $4,765 H. $4,766 I. $4,76

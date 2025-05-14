@@ -1,0 +1,1 @@
+Question 49 How many times is the landfill penalty (Cost 4) paid through the modelled timeline? [4 marks]

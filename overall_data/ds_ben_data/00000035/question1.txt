@@ -1,0 +1,1 @@
+QUESTION 1 What is closest to the forecast Sales Revenue in January 2014? a. $364,000 b. $371,000 c. $349,000 d. $454,000  

@@ -1,0 +1,1 @@
+Question 17 Is the formula used to calculate each year’s ‘Total Liabilities’ correct?  a. Yes b. No c. Not enough information
