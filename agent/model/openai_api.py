@@ -27,7 +27,9 @@ class OpenAIClient:
         backoff      : 初始退避秒数（指数 *2）
         """
         load_dotenv()                          # 读取 .env
-        openai.api_key  = ""
+        # with open("./openai.api_key", "r", encoding="utf-8") as f:
+        #     openai.api_key = f.read().strip()
+        openai.api_key = ""
         openai.base_url = "https://api.gpt.ge/v1/"
 
         self.model, self.temperature = model, temperature

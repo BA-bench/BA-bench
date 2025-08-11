@@ -12,11 +12,12 @@ from pathlib import Path
 
 import openai
 import pandas as pd
+from tqdm import tqdm
 from agent.model.openai_api import OpenAIClient
 
 # ---------------- GPT-Judge Prompt ---------------- #
-JUDGE_PROMPT = """You are a meticulous evaluator.
-Task: Give a score 0–5 (5 = perfect, 0 = totally wrong) judging
+JUDGE_PROMPT = """You are a kindly evaluator.
+Task: Give a score 0–100 (100 = perfect, 0 = totally wrong) judging
 whether ASSISTANT_ANSWER answers USER_QUESTION with respect to GOLD_REFERENCE.
 Return ONLY the number.
 """
@@ -27,7 +28,9 @@ def gpt_score(q, a, gold,llm):
         {"role": "user",
          "content": f"USER_QUESTION:\n{q}\n\nGOLD_REFERENCE:\n{gold}\n\n"
                     f"ASSISTANT_ANSWER:\n{a}"}]
+    # print(msgs[1]['content'])
     resp = llm.chat(msgs)
+    print(resp)
     number = re.findall(r"[-+]?\d*\.\d+|\d+", resp)[0]
     return float(number)
 
@@ -66,31 +69,35 @@ def main():
 
     detail_rows = []
 
-    for p in preds:
+    for p in tqdm(preds):
         gid = p[args.sample_key]
         g   = gold_map.get(gid)
         if g is None: continue
 
         a_type = g["analysis_type"]
         domain = g.get("data_domain", "unknown")
-
-        pred_ans, gold_ans = p.get("answer"), g["answer"]
+        ans = str(p['agent_out']).split("Final Answer:")
+        if len(ans) > 1:
+            pred_ans= ans[1].strip()
+        else:
+            pred_ans= ans[0]
+        gold_ans = str(p.get("answer"))
         is_correct = False
 
         # ---------- 闭式任务：Exact / 数值 ---------- #
         # if isinstance(gold_ans, (int, float, str)):
-        if len(gold_ans)<5:
+        if False:
             is_correct = num_close(pred_ans, gold_ans) or em(pred_ans, gold_ans)
-
+            print(is_correct)
         # ---------- 开式任务：用 GPT 判分 ---------- #
         else:
             if args.judge:
                 score = gpt_score(g["question"], str(pred_ans), str(gold_ans),llm)
-                print(score)
+                # print(score)
             else:
                 score = 0             # 若关闭 judge，全部算错
             p["gpt_score"] = score
-            is_correct = score >= 4
+            is_correct = score >= 2
 
         # 更新统计
         for bucket in (overall, by_type[a_type], by_domain[domain]):

@@ -1,0 +1,17 @@
+=== Overall ===
+  6/100  (acc=6.0%)
+
+=== By analysis_type ===
+  Unstructured problems  6/100  6.0%
+
+=== By data_domain ===
+defaultdict(<function main.<locals>.<lambda> at 0x7f84bfd32170>, {'Goal Management': {'total': 5, 'correct': 0}, 'Finance Management': {'total': 33, 'correct': 3}, None: {'total': 20, 'correct': 0}, 'Finance Management and User Management': {'total': 3, 'correct': 0}, 'Incident Management': {'total': 12, 'correct': 0}, 'Asset Management': {'total': 8, 'correct': 1}, 'Incidents Management': {'total': 10, 'correct': 1}, 'Incidents Management.': {'total': 6, 'correct': 1}, 'Asset Management & User Management': {'total': 3, 'correct': 0}})
+Asset Management 1/8 12.5%
+Asset Management & User Management 0/3 0.0%
+Finance Management 3/33 9.1%
+Finance Management and User Management 0/3 0.0%
+Goal Management 0/5 0.0%
+Incident Management 0/12 0.0%
+Incidents Management 1/10 10.0%
+Incidents Management. 1/6 16.7%
+none         0/20 0.0%

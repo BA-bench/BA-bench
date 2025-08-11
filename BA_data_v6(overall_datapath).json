@@ -2,7 +2,7 @@
   {
     "id":"InsB_0",
     "question":"How does the success rate of goals met across different categories compare?",
-    "data_file":".overall_data//ins_ben_data/notebooks/csvs/flag-29.csv",
+    "data_file":"./overall_data/ins_ben_data/notebooks/csvs/flag-29.csv",
     "doc_file":"None",
     "answer":"Cost reduction goals achieve significantly higher success rates compared to other categories",
     "data_domain":"Goal Management",
