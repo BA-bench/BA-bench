@@ -141,7 +141,7 @@
   },
   {
     "id":"DAB_0",
-    "question":"Question: Calculate the mean fare paid by the passengers.\nIn your analysis:\n- Assume that missing values are represented as \"NaN\".\n- Calculate the number of missing values for each station.\n",
+    "question":"Calculate the mean fare paid by the passengers.",
     "data_file":"./overall_data/da_ben_data/test_ave.csv",
     "doc_file":"None",
     "answer":"34.65",
@@ -170,7 +170,7 @@
   },
   {
     "id":"DAB_1",
-    "question":"Question: Generate a new feature called \"FamilySize\" by summing the \"SibSp\" and \"Parch\" columns. Then, calculate the Pearson correlation coefficient (r) between the \"FamilySize\" and \"Fare\" columns.\nIn your analysis:\n- Assume that missing values are represented as \"NaN\".\n- Calculate the number of missing values for each station.\n",
+    "question":"Generate a new feature called \"FamilySize\" by summing the \"SibSp\" and \"Parch\" columns. Then, calculate the Pearson correlation coefficient (r) between the \"FamilySize\" and \"Fare\" columns.",
     "data_file":"./overall_data/da_ben_data/test_ave.csv",
     "doc_file":"None",
     "answer":"0.21",
@@ -199,7 +199,7 @@
   },
   {
     "id":"DAB_2",
-    "question":"Question: Create a new column called \"AgeGroup\" that categorizes the passengers into four age groups: 'Child' (0-12 years old), 'Teenager' (13-19 years old), 'Adult' (20-59 years old), and 'Elderly' (60 years old and above). Then, calculate the mean fare for each age group.\nIn your analysis:\n- Assume that missing values are represented as \"NaN\".\n- Calculate the number of missing values for each station.\n",
+    "question":"Create a new column called \"AgeGroup\" that categorizes the passengers into four age groups: 'Child' (0-12 years old), 'Teenager' (13-19 years old), 'Adult' (20-59 years old), and 'Elderly' (60 years old and above). Then, calculate the mean fare for each age group.",
     "data_file":"./overall_data/da_ben_data/test_ave.csv",
     "doc_file":"None",
     "answer":"43.47",
@@ -228,7 +228,7 @@
   },
   {
     "id":"DAB_3",
-    "question":"Question: Apply the linear regression algorithm from the sklearn library to predict whether a passenger survived or not based on the features 'Pclass', 'Sex', 'Age', 'SibSp', 'Parch', 'Fare', and 'Embarked'. Encode 'Sex' and 'Embarked' to numerical values before applying the model. Split the dataset into a training set (80%) and a testing set (20%), train the model on the training set, and evaluate its performance on the testing set using the accuracy score. Ensure that the train_test_split function's random_state parameter is set to 42 for consistency.\nIn your analysis:\n- Assume that missing values are represented as \"NaN\".\n- Calculate the number of missing values for each station.\n",
+    "question":"Apply the linear regression algorithm from the sklearn library to predict whether a passenger survived or not based on the features 'Pclass', 'Sex', 'Age', 'SibSp', 'Parch', 'Fare', and 'Embarked'. Encode 'Sex' and 'Embarked' to numerical values before applying the model. Split the dataset into a training set (80%) and a testing set (20%), train the model on the training set, and evaluate its performance on the testing set using the accuracy score. Ensure that the train_test_split function's random_state parameter is set to 42 for consistency.",
     "data_file":"./overall_data/da_ben_data/test_ave.csv",
     "doc_file":"None",
     "answer":"0.78",
@@ -257,7 +257,7 @@
   },
   {
     "id":"DAB_4",
-    "question":"Question: Perform a distribution analysis on the 'Fare' column for each passenger class ('Pclass') separately. Calculate the mean, median, and standard deviation of the fare for each class. Interpret the results in terms of the different passenger classes.\nIn your analysis:\n- Assume that missing values are represented as \"NaN\".\n- Calculate the number of missing values for each station.\n",
+    "question":"Perform a distribution analysis on the 'Fare' column for each passenger class ('Pclass') separately. Calculate the mean, median, and standard deviation of the fare for each class. Interpret the results in terms of the different passenger classes.",
     "data_file":"./overall_data/da_ben_data/test_ave.csv",
     "doc_file":"None",
     "answer":"69.30",
@@ -286,7 +286,7 @@
   },
   {
     "id":"DAB_5",
-    "question":"Question: Calculate the mean value of the \"Close Price\" column.\nIn your analysis:\n- Assume that missing values are represented as \"NaN\".\n- Calculate the number of missing values for each station.\n",
+    "question":"Calculate the mean value of the \"Close Price\" column.",
     "data_file":"./overall_data/da_ben_data/GODREJIND.csv",
     "doc_file":"None",
     "answer":"570.68",
@@ -315,7 +315,7 @@
   },
   {
     "id":"DAB_6",
-    "question":"Question: Check if the \"Total Traded Quantity\" column adheres to a normal distribution.\nIn your analysis:\n- Assume that missing values are represented as \"NaN\".\n- Calculate the number of missing values for each station.\n",
+    "question":"Check if the \"Total Traded Quantity\" column adheres to a normal distribution.",
     "data_file":"./overall_data/da_ben_data/GODREJIND.csv",
     "doc_file":"None",
     "answer":"no",
@@ -344,7 +344,7 @@
   },
   {
     "id":"DAB_7",
-    "question":"Question: Calculate the correlation coefficient between the \"High Price\" column and the \"Low Price\" column.\nIn your analysis:\n- Assume that missing values are represented as \"NaN\".\n- Calculate the number of missing values for each station.\n",
+    "question":"Calculate the correlation coefficient between the \"High Price\" column and the \"Low Price\" column.",
     "data_file":"./overall_data/da_ben_data/GODREJIND.csv",
     "doc_file":"None",
     "answer":"linear",
@@ -373,7 +373,7 @@
   },
   {
     "id":"DAB_8",
-    "question":"Question: Create a new feature called \"Price Range\" which represents the difference between the \"High Price\" and \"Low Price\" for each row. Calculate the mean, median, and standard deviation of this new feature.\nIn your analysis:\n- Assume that missing values are represented as \"NaN\".\n- Calculate the number of missing values for each station.\n",
+    "question":"Create a new feature called \"Price Range\" which represents the difference between the \"High Price\" and \"Low Price\" for each row. Calculate the mean, median, and standard deviation of this new feature.",
     "data_file":"./overall_data/da_ben_data/GODREJIND.csv",
     "doc_file":"None",
     "answer":"16.65",
@@ -402,7 +402,7 @@
   },
   {
     "id":"DAB_9",
-    "question":"Question: Calculate the mean and standard deviation of the \"Mar.2019\" column.\nIn your analysis:\n- Assume that missing values are represented as \"NaN\".\n- Calculate the number of missing values for each station.\n",
+    "question":"Calculate the mean and standard deviation of the \"Mar.2019\" column.",
     "data_file":"./overall_data/da_ben_data/unemployement_industry.csv",
     "doc_file":"None",
     "answer":"171.44",

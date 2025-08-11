@@ -1,2 +1,0 @@
-id,analysis_type,data_domain,gold_answer,pred_answer,correct,gpt_score
-0,Unstructured problems,Goal Management,Cost reduction goals achieve significantly higher success rates compared to other categories,"[['range_STEM', '17.7'], ['mean_STEM', '125.11']]",0,
